@@ -1,0 +1,5109 @@
+{
+    "achievement_count": 84,
+    "athlete": {
+        "id": 471686,
+        "resource_state": 1
+    },
+    "athlete_count": 4,
+    "average_speed": 7.523,
+    "average_watts": 164.0,
+    "calories": 4007.9,
+    "comment_count": 0,
+    "commute": false,
+    "description": "High 40s to 90s.",
+    "device_watts": false,
+    "distance": 164918.0,
+    "elapsed_time": 27446,
+    "end_latlng": [
+        38.44,
+        -122.75
+    ],
+    "external_id": "2014-10-04-15-07-30.tcx",
+    "flagged": false,
+    "gear_id": null,
+    "has_kudoed": false,
+    "id": 203378452,
+    "kilojoules": 3594.5,
+    "kudos_count": 14,
+    "location_city": "Santa Rosa",
+    "location_country": "United States",
+    "location_state": "California",
+    "manual": false,
+    "map": {
+        "id": "a203378452",
+        "polyline": "wksiFprelVa@dAw@~@{@x@_A^kAPsCJIdA?vPOvY?xbAjR?jIHtB?bB^|An@xAb@zAHJ`A?fGFrN@bG?`kAFvi@?dNFrU?bd@Ftn@@rbAhfA?rC@x@Hn@RNz@]nC{@jJg@fEsBnNg@rE[fDA~AT|Bd@bBTdBFjA?fJGzAc@|Aq@jAuBdDi@rAQvACpBN`B\\tAr@vAZf@~B~C~@~Ah@pA`@zBJnBDlBWrILpTJhCt@bKx@bR^xEp@xD`DrNb@pCJ~BFpCd@lEr@jEzBtJrMli@X~@yAvC{BtHu@rAk@PuF~@mJpA}IrA}@DmAZ}FjBkAZaKr@uAGS`BLpEGt@a@ToAHuFG_QFEb@?fG@nAJj@X|@hAtAb@nAR|AZ|A`E`HHlCi@nUfQlErE~@`F|BfLdE`\\zL`B|@|AdA~GrHl@nAxBpGd@jCVt@bDxHTjAMh@Mx@G|BWxAYz@u@|AQz@Gr@@r@NtB?hCHnAVfAZx@Xb@bDhEh@pATbAdA`Gb@xA~AvCZr@VbB?nD[fLBzBVlGLnAVzAb@pBlAxCF`ACn@M`BWpAEz@RdAnAdERx@Bv@?bFGt@kAvHqAvMQb@Yj@}DlFc@r@Uj@Mx@BhBf@jBNx@Fb@@t@AzACb@i@`ECfA?vCR`BdG`QjIvOnApA|@z@h@nA?`Fl@z@n@\\zAl@tBzAv@nA`@|A^lERp@mDfC_CfBiAnAkAl@oAJmI^wALgC|@sARq@GoA{@u@w@eABqB^eAh@gBZcBP}@|@}Az@uCbAwCnEkBb@_CtAo@j@KN{CzHo@zAQRcAt@m@rA]fC]xDgBnBa@VeBr@UEcA_@_A{@mAB_A~@_BhBQd@y@vAMHoBr@gAp@sA|A[h@C^PlAB\\Ij@kB`GeAvCsG~Ky@dBIZUvBHlEA\\i@hCsAlDc@z@{@bAa@`@aAl@cD`BaC`AyAH_DhAgB~A{DjBkAt@u@`AeA~As@n@q@LeCFuBM{Bm@aBWiAZ]l@iAjCsBrHy@`Cu@`ByA|AaDnBa@hBT~AVd@zAfA|IhFn@jAHXCzBUrCHvBFr@^dBJVhBhDX`AV|BDdB?p@mAxFa@rB?n@d@~Av@xBWhB{B`CoAdAu@dA_@|D_@hBwApDY`@eA`Ao@\\mBj@}AfAu@pA}@fA_Ab@c@XyDhF}@b@_AT_BOyBJyA^_LxD]T_AdAe@fAq@xBu@pAkAvAmBlDkBrBi@v@]fBaA`Ms@pA_AvAoH|HaKzF}AXeAOcB_@gEcAoAc@{BcAk@[kC{@iAaA{@mAaAiBa@CyIvIy@d@g@?iAMS\\c@rBo@vBc@|@sA|BmF`HsA|A_BpA_FnBcHbC{A|@}@l@y@z@{@`Cm@lB_@~@k@~@iApA}@t@i@dBq@xGo@tB]nBq@nBWdAQlA?d@HdAVx@d@z@zFnF`ClBh@LfC\\v@Px@TlB`BnAbB|G~LlBtCpEdGx@|@rAv@nBd@`@Tr@`AxApChC`GLr@VdDpAxd@@pEOtC{@zGm@dESvC?nDN|Bd@`Dq@Xo@Aa@S}McQ{AeAoAo@y@WcCBoBRs@PmAt@mFtFkDzE[ZcAj@cJbAwAb@yJtFcAjAq@vAmBlGs@fBo@tAq@rAuA~BcAxAkBnDw@fB_CxCcDrDcFfDkEtFeA`AmAZ}@MaBe@}AYqESuALeAx@YX[jAEj@EbC`@vECrBGp@WbAk@nAwG`JiBzAsAvB_AjAyAhAkAn@s@HgAW_Bg@sAm@y@c@{AWyASoAA_BBeHpBmEn@uAZkC?uAG{AOmBAaARoCvAs@XaAJeBOyAQkCqC}E}D_@YsAm@c@KaB\\{AtAm@vAQx@yAfJwApEQbAQxAQvC?nBQpBs@xAa@`@mB^sBR{AXu@Ty@b@u@j@y@nAg@hAeAdB}@|@oCd@gACcDWmAd@}@`A[rACV@lBJdF?xCCRi@`BcA|A{DtDgBjBy@v@gALa@AcAUoDgBkA[w@NOFoA~@qAbBw@fAa@jB[pDOzBUzAa@vAe@lAgAv@g@BeAWi@w@a@yASuBgAoCk@e@{Aa@}BQwAW{Ae@_BJaF|Ac@JcB@w@UcAmAmCmDsAk@{@@gA`@k@`@OSNRAE@NEEeG~Dk@bAi@~A}@nBc@t@{AvAsAh@sCrCgAt@}At@uB\\g@HgAB}BP{ATyCnB[?wBcEk@yAo@qB_@w@}@mAs@s@m@_@M@mBb@cAAs@DgBlAc@j@yEdDu@v@oBrC]XqAVoAR}@Dy@Vs@`Ao@b@a@GaB}AiDR}@Ny@~@YnAm@nBo@h@}AYoABwKj@aAAmBuBoBI}AB{@j@aAdAg@n@YfAa@rEAtBWpDS~AsAlEy@fB}@~AqApBgAlA_@j@q@zAc@xAU`AQ~CIx@]TsAB_Fo@_@FWH[\\_@n@[hAMx@Cr@FbA`@jARjA@d@EvAy@`Bu@|@e@RW@eACqAs@yAeAq@Qu@PWXYl@YNs@Le@Xc@D]Me@WSEUT[f@[D]EqAqAa@SOL]rAYZa@DuAKc@HaA\\e@De@Ca@Rc@l@SdAE^`@jC?hAOb@g@x@c@FY@k@Uo@HoAz@{@x@q@h@q@r@MdAkAfAc@BiAmAYb@ANe@`AiAr@{@z@gDlEe@jAi@dA_A~@i@|@FlCObDYpBo@x@WRs@x@]TgANiBkC]_@iA_@oAWcA?e@\\a@bAGx@YxAa@f@}Al@eA?oAXa@H}@GMTSr@?j@Kd@MN_@Dm@CWIQoAy@Ee@b@Y\\mAUa@@{AHi@Ra@h@cAr@Q^m@dC[`@Ab@Td@ZXXAd@cBP_@hBW`@Bl@XBZOBy@K]N_@VK`@En@`@jJNb@PVHf@?XMh@uA~AoDdBM\\QdA_ArAM^Hh@Rl@Bb@?n@Eh@i@xAj@rA?f@KjBWt@yAzAiAtAw@h@QFmBJ}@ZsAhBQ^YrAa@|AMByBLkA^w@LUV?f@|@vGEzBI~@u@`De@`Cq@`CQfAIzAKt@}A~EgB`C_@z@aAlD_@~@uBfEgAfCMp@WhBAf@FtDS~@_@jAk@dAy@|@k@z@k@fBgApE_@\\g@ZWTSr@?pBDj@x@hBLd@Et@Mp@Ev@Z`@d@Pl@d@Ph@VfBZrAR`@d@vApArBj@lBDRHvAeBlJOd@_BdEu@lAkAlDOh@[|AaApCMd@EZLXHAZk@Ng@rAsB`@cAXMHTKd@w@fDO~@Dp@MdBI`@[Ni@?SFeA~@Qb@B`@d@rBV~@\\Rj@Ln@^Vz@D~@^fACr@NbBVnAM|Ay@hDBz@n@dI?|AS`BCzAi@d@g@hADj@TlAf@tAp@hC`Al@n@x@Bl@b@vA`@|@I~@u@jBMfBOj@u@b@u@pA[jAe@|BEb@GlAbAzHQvEB|BD`@LnCMbAu@`Ei@`BWf@a@^cAh@s@PYC}@Ra@n@]pAYbBBx@O|AuBrBw@n@mAdAyAdCs@v@i@pAKr@KtEYvAMd@]dEkA|B}@x@sA|@s@JkD?s@RwC`BiAFMKqAg@_@b@Wh@Gf@DvA[~@Ct@Lb@b@b@R^Jt@An@IbABt@^Z\\f@Dd@UzBW`BTzBHrA?vALfB~@xDf@xAd@d@hBt@r@TZ^Zh@FT?v@]nAAv@Zh@^Z`@t@Jd@v@zFLhB[nBg@dCe@bAi@t@s@vAe@hBq@r@q@h@DlAm@l@q@r@l@nBTvBB`AS~@]Z{An@e@Di@k@g@o@sA_@_AGeA~@cFxBgA@YCu@H{FjFi@bAGh@EbBiAxAsAbDeC`Ko@vBmBxFyAzF_@fAgB|DKJq@^iA\\_Az@Qn@u@dAkAdA}@|Ag@rBs@`BeAdAcAbCUhAk@hAOHaCp@y@NiAJ}AzAgA\\iB`A}@l@]^kB`Ea@xBy@nFmAxD?hFHrA`A`EXfF_@pEWhBMvBEbFFt@\\zB?pAw@nEs@tGr@lDPjD?pB\\`DS|@FjAAlAc@f@u@Zy@l@B~@\\dAFL^dAJj@C|@MVq@t@_@r@Dj@V^~Ap@b@x@Lb@h@|@r@z@^~ALt@SfB[n@u@fAe@`AM`AJ\\t@pAl@x@p@l@LRZnAXtAf@pA^b@b@~@|@xIXdBn@|AzAvBh@lA^|ARlAh@fITj@`BzCDLZ~A^hDDp@C|BYfDCvANbBv@`Eh@vBv@fBtD~Gr@fAhEtFzCnF`@`AXjB\\|Ah@jBd@tA`BdEh@~ClAtErIF~@Ft@h@Zn@DrALtAPb@|@dBL^l@h@TGFKl@_Ax@?tBi@RC|@a@~@o@z@[dAWdBCxAInACd@?h@DbBh@|@j@VrAd@t@`@RlAz@fBrAr@x@Lx@Kx@W|@g@z@g@h@}@FsAc@e@?g@Ls@T_BfAuAF_@Ao@H[b@FpATz@Z\\dAd@j@Nn@Ox@Ch@Dd@XVZTd@Bv@e@RuAV_CJi@Xk@d@[h@]jASPg@Do@?]TMn@IbEUz@g@bA}@xD[d@e@j@S`@?ZVNNCZ}@r@{@dAm@XWROlBeA^I`@D|Aa@^GbAHh@NpEbGB`@?`Ae@xBB`@R\\t@`@B`@G\\O^kCtFa@d@oApAY@m@EW`@Q`@Av@d@dCtA|FT~Ch@r@P\\?Z\\n@hAQ^Fh@bAX`@x@Xb@?j@Gv@YRKr@Q`ALx@f@d@^rCjAn@h@nArAv@p@`ANxDLn@MjDyApA]xAQ|CGlAAPBtAVrBj@jGdARBxA?`BKj@u@Va@fAT^Pz@y@HOP[z@{BbCcFtDqCzAyAvBgCh@aAd@{A^{@n@eAtDyEXa@z@gDZ[zDcCfAg@`Fu@hA]v@q@j@{@vAuCz@qA^[\\QnAKx@c@|AiC`@cB~@}A^KpASdAc@x@_Al@a@pC_Ab@e@^k@j@GfDPn@@b@C\\UPc@VkFo@iDq@qCKw@HWh@eA`AeCBk@\\mQEgAu@_CKeA@k@Zw@n@c@fAi@\\UDe@DcEHg@n@{@d@]`C{@`Ac@d@]hF_Gd@c@jAk@lA[~@?\\OxAkAt@Sv@ObCmAjAmAb@O`FwB~@[xAAlBNpAIfAOx@]bAw@v@{@fAiBlAs@|B?tA]tCaAtJ_Cl@q@Lc@@WE}CFcAd@aANyB?i@McF@c@t@oDZ[VU^I|BKn@I`@_@Zo@Fi@EqJB{@Lo@h@mAbAkBN}@PyB?{DJgBHk@Nc@b@o@|@{@|AaAbAa@bBi@XQxFaF|@iA\\s@bBcE`@qANsABo@DiA?iASm@][_Ao@c@i@g@}@Om@?[|@cD~AaDh@{AXmAPmCVqCX{A^}DNw@l@kAc@eAWoAR}@dB{A^k@tBgEhB{AZsAJ}BMcBc@aA}@wAg@iBCcDIsAGcC~@oKKs@q@iBKcA^uCp@qD`@mBn@kB|AsC|BuDxDsFz@cA`Ai@`Cm@~B_ApOuGzAu@`DiDjAUbIu@v@[l@_@zAc@zAeA~Ak@r@cCr@aG\\cA\\MnCq@pAeAjBcCx@}Az@kBABQKMI?ECA`@`@YQXP@GB@nDyHd@u@~@q@hAo@fAq@xBeBvEsE~QmNb@e@`@w@d@cBnAsC~@w@PKXs@`@aCb@aA^c@r@qAAk@Oe@}B{E[{@[gBAWFaCFo@\\yAlBoBzAmB|GgJhAu@~BqAnAm@p@Ul@IdHa@r@IrMgD`HmAbAUvCoA|@Kl@Ov@s@R_@l@yBl@yAfAq@lAc@POrAmBxAgCz@aBpByHv@o@bGh@fB_@x@y@T}@p@iDrB}GnAaB~AsAnDuBxDyDx@i@fASpA[zAcA`EiDfAo@~Au@vByAbDeCzBmA|AwA`DeDhAs@PCrBNpAAlCYrD_AlAw@NO`AcBZgAj@y@jAkArA}@bAaAp@i@pAi@nAcBBUhAaBXi@dBoFh@qBv@cBLSzAeAl@u@^_BHqB|GaJvAgAhAe@pAeA^g@vEwJ~@wCx@wAlG_GjBqBrAo@nBw@bAaD`BqDf@_B?uAMkBCmBZaAvAoAt@{AVo@|@qA~@OdAH|ClA`B\\bBLjCE`AX`ABp@o@Je@PeBJQb@Qx@XVf@TtCZfAr@\\^DTWGg@kAwAa@kFe@cBi@O{B~@}AZgA_@wA_A}Aw@}@cAAe@RgBDoAQm@s@k@SIuA[m@SE[LSN@VLnBXtA`@|@x@j@lA|@~Aj@Pn@ChAW`F_BzAaAnBsCpAaAf@KfC?x@N`AVbAPz@GhDq@|@Gh@Nt@Xl@Np@Ef@Od@a@Xg@No@b@yC\\sAbEiGx@yAzEyJv@}BpAgEfA}BlDgGzQqS`@}@j@sBDeBW}Ai@sAMSoBsBu@g@gAoAc@wAGm@EyDDoAXi@`@LXT~@p@`ADvAl@dBdAxAT`@IfBs@`AgArAqEj@mCBgBQoACcAZUNDlAHb@]vAcCt@gA|@}@f@sALwEd@{Dl@yAzAqCx@qBjA}DNaBGsBb@k@f@Kh@GjAa@^y@NeA@oEU_Bo@oDOoBDkCLgChDmXb@aBv@s@|DsA`CiDrBcBhFiDfBeBvBeBrJ}Fn]qRxAoAdAiBd@yAX{BLyBX}AhFoFfE}DlDaCrA{@lBq@|@Gn@Lt@p@^p@Vt@?dMI`A[p@cAlAQl@?l@Ph@l@hAV~@Z|AFx@[fACr@LdEJn@V^h@JdCOdJoAbA]xB}A|AoAbDeDjA_@rB]~A_AfIeF~Ac@l@ClAS`Bs@vTqLpFqCrB_@pC]REfAe@P_A?iAm@wBUqALu@`@g@h@@^PfBhA`Bh@fADxBa@zFoA|Aa@|Ba@dA_@`@w@ZyAh@sAj@WxEo@nEmC`B{@bAS`Cb@rA@vCw@zBe@tCa@fBCjB?pAKvB_AbAcAdAsFd@cAf@BnA`Bp@TtBPtAFfBBzA?bKmBx@a@pAuAhDkG`@uAS{AcBaEU}@Lk@^KjBE`FApAi@jD}HnA{C|@eCh@aALMlCgBzBc@|AMrN]vAY`BqAvDcEx@e@ZAlAJRAd@MjA}@jBcBnAcA|@o@zA_ArAo@dB]dCOpG?v@Gf@Oz@y@^sA^kCr@y@rBq@jAYjEQzAK~@[dGwDxBeB`AkAdCeDx@m@dAEdAWd@k@HaAAm@UgBPo@^EnBLfAOrDgAp@g@z@{@n@e@fD}@lHuDIo@_DaHe@]{Aq@cAiAq@gAe@qA[uBSy@_AwAYw@SaAYyB?oGB]f@gDFu@UmC[iCQ][Kc@Hq@l@QTM`@C~AMl@q@|@_@P_@EYOmA{@UMuBYo@WcAo@]_@m@oDGs@NgICaAI[]g@Um@AkBBiAPmBEw@_@mBEgB?y@Fi@p@}AbAiFCu@u@eEDw@PkBCy@s@qCUwA?eCy@cEiAuLUiBg@eB{AcCq@YOAkEJaCAuN_DuBYcBCuAR{FhA_ATgKdDaN~B{ARkA?qCCuAHeB~@}LfEaBb@k@H}FZcC?_@K}@i@M[G{AQi@k@g@m@[aBs@i@]sD}CeAs@mA]oAc@aB{@gA{@_BgDcEiFa@sA]sC[u@o@s@w@k@q@[}Ai@g@Y{FyGu@_Aa@u@EuAFcE_@sAc@k@_Ak@o@i@EiAfGsZTcB\\{D~@}XHkAfE_SZkBDw@@kBeA_A{ByAe@m@_BwCOeAEa@_@kAIOWmAOi@g@q@w@ScBwAq@}Ci@uAyBsB{AuB_A}BWoCAe@F{@VA\\VfApAh@Zh@FZGz@m@Ri@NgA@uFT_DNsAd@w@z@}@tCmBf@e@Vc@g@m@yAo@c@g@iLgTi@WW?u@m@Mo@UcBWoHZwAjAmBYcE?yBJsAReFZyB|@uFDsCQ}B[gB]oA}@}BoDeI_E{GSSwBqAu@eBUq@wAiCm@c@c@c@iD_Ks@aBWiAOqAM{BiAkFA]@m@R}@d@s@Pc@^kGnAcHDc@@kAh@]h@Q^Qf@c@lCeD`BMf@WnAuAx@]XGhABn@HbAj@NN`@j@dAbAx@XdDGlAWzAKb@\\`B`ChBOxHoBlAAlI`@dABjKWhBV|AV`BBnGoAdEkB^q@k@cA{AmEa@kCe@qDS}Bo@iAaAU}@cAS}AAYLcDJu@r@}BhAcC`@u@\\aCy@_Ec@sAmEwKqAgCMMoAw@sDmAqAu@mAy@iAo@cDq@i@UoAiA{@cAe@gBm@mGIaAEwAFeAb@yCGeAm@oAyCwAcA_@_Bg@WUs@_Ao@oA_@{Aq@kE_@gA{DaJe@UkB?yAUoAg@e@a@i@m@oJ?kJlF[YGSG[`@pAQqADDFn@C^wAz@[a@Og@AyBI_@a@}AWm@U_@Wa@aBiASMkBu@YSa@e@Kg@?{CC{@Oq@cC{Bo@aA_HmMy@mBsF}OGiA@qEj@oEDkBIkBq@uCIkBRqAXq@dFaHh@yBn@uGf@qEh@iDVaC?oCCaCU}@gAqDYyBV{ATuB@]a@cCy@wBw@aEUsDMwCAkD\\{MEsBa@}AyBcEYqAgA_G_@aBcBcCqAcBaAoBa@kB?sCQqDPiBRq@r@_Bb@oBPoDLqBcEwJk@_Dm@kBiB{Ey@iAgGwG}A}@cCiAad@sPuD{AoCmA_Bc@wBa@oQoE?}@`@oQ@{BCeAg@eA_DoFQu@a@}Cc@{@cAmAYw@Mw@?mJRGzNElJBf@YPk@MsDByAFg@\\IhB?vF_@rBUzAc@xE{AhB]jBUxIsA~Eo@rBY`F}@n@s@HQvEkOOa@wMui@iCcLg@{Da@oEE}CS{Ba@sBuDoPg@gEWoEe@oLaAgNIiCMqRVwKEqBQoCg@eBu@_BaCeD}AaCYs@k@uC?_BP_Ch@sAvCwEv@_CFyC?eIUqBm@gCUsBBwBZeDj@iFjBgM\\yClAkMb@kCqAg@iBIgiA??}_AIkq@uZ?mSBCc@@[EmMKoC@yBC}CScKOoT@y^JiKBcI@kQBeOAqDCSHiH@oOFuCXwBfAk@`BwDvCcBxAiBz@{Ah@gBzCkONqB^?kAyCFu`@DwBl@kJpByDw@yC`@_F@m@~CeDdAqAtOiJ|AeAt@}@\\m@v@wBVmBFkAM}Ca@_BoBeDiA}Bs@gCEmA@SCgCFkAAiAKkABuBE{CCe@Qq@SqAk@iCu@sESl@Q@EcBR~@Ib@m@FmAb@gA~@m@dAy@nByHbS}Di@oCGg@@KE",
+        "resource_state": 3,
+        "summary_polyline": "wksiFprelV_MbIOhoBpl@hEb@`tIfnA^eNpcB|n@dpEkG`PqyAvYCzJdJjq@hlAja@fWve@sBt_@nPpc@jFxbAeMlkAze@lgAiaAvTs\\lj@q[lOmVn{@yv@xViRh_@vObOhE|\\wMbs@cq@z\\a`@|w@_NtG_^qP}cAzcAcFn_@z_AvcA`@dyAk]iUap@r]qm@b~@sUZi@|TgVjYqxAcHiMrk@ud@bQ}BpWc^`K}J~Zsp@gW{r@vc@oLiRyt@f]c]gBgi@tsAkg@jBok@`~@up@`LbFfE{Lzp@uZtUgCzb@s]~aApLte@sOho@pM~iA}H|{@m]vu@_XzGbPxtAqIn]e`@~I{Udu@yq@z_AwBfnBnb@|{Bj_@~|@`~@pS{SzKvKfJ_W|\\xY@wIlYhFxVxrAxIhb@yo@j~@ei@dGegAp|Auo@jRghAlZe\\sDcQ|Ua{@kDsm@~JkZvaAcf@f~@mfA|KaV{CuVfNeQpw@yRtn@{x@liAem@doAceBzLsa@pa@nFc[y_@`MdIzo@eLnr@spAcJg\\zTt@l`@_gA|Cyx@bhBa{A|K|q@v}Acq@AqLbzBma@vEaZ~\\uYpjAwZnoAwx@qQe]}@}^{S~AoKumB_b@oE_uAdWsaAinAjRw~A__@kq@pHXbKi[gUsZ~Bc{@ge@ykAbEuX|PeLpzAbAgKa_@tEmT}JsXuYiO_AuXuWgb@qe@pC_f@ceAxLkoA}_@m`DsxA}m@kJa}@dyAuYpGqQqn@cnE`O{cBcoAq@IirBco@BSy{DfVkj@lAugAd_@ea@eNc}@{Qh_@aKu@"
+    },
+    "max_speed": 16.1,
+    "moving_time": 21921,
+    "name": "Gran Fondo",
+    "photo_count": 0,
+    "private": false,
+    "resource_state": 3,
+    "segment_efforts": [
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 188.4,
+            "distance": 48259.0,
+            "elapsed_time": 6279,
+            "end_index": 1004,
+            "hidden": false,
+            "id": 4792121382,
+            "kom_rank": null,
+            "moving_time": 5351,
+            "name": "2012 Levi's GF Start to Cazadero",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.0,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 48279.5,
+                "elevation_high": 178.4,
+                "elevation_low": -25.0,
+                "end_latitude": 38.53426359593868,
+                "end_latlng": [
+                    38.53426359593868,
+                    -123.08614145033062
+                ],
+                "end_longitude": -123.08614145033062,
+                "id": 2493763,
+                "maximum_grade": 13.9,
+                "name": "2012 Levi's GF Start to Cazadero",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.44286799430847,
+                "start_latlng": [
+                    38.44286799430847,
+                    -122.7495461795479
+                ],
+                "start_longitude": -122.7495461795479,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:07:31Z",
+            "start_date_local": "2014-10-04T08:07:31Z",
+            "start_index": 0
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 169.3,
+            "distance": 108327.0,
+            "elapsed_time": 17226,
+            "end_index": 2869,
+            "hidden": false,
+            "id": 4792121633,
+            "kom_rank": null,
+            "moving_time": 14285,
+            "name": "Levi's GranFondo: Start to Jenner",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.0,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 107673.0,
+                "elevation_high": 508.6,
+                "elevation_low": 3.4,
+                "end_latitude": 38.449907,
+                "end_latlng": [
+                    38.449907,
+                    -123.115888
+                ],
+                "end_longitude": -123.115888,
+                "id": 8218049,
+                "maximum_grade": 45.1,
+                "name": "Levi's GranFondo: Start to Jenner",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443151,
+                "start_latlng": [
+                    38.443151,
+                    -122.750149
+                ],
+                "start_longitude": -122.750149,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 169.8,
+            "distance": 33017.0,
+            "elapsed_time": 3795,
+            "end_index": 666,
+            "hidden": false,
+            "id": 4792121350,
+            "kom_rank": null,
+            "moving_time": 3795,
+            "name": "Levi's GranFondo: Start to Monte Rio",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.1,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 33025.2,
+                "elevation_high": 199.6,
+                "elevation_low": 5.6,
+                "end_latitude": 38.464148,
+                "end_latlng": [
+                    38.464148,
+                    -123.010572
+                ],
+                "end_longitude": -123.010572,
+                "id": 8217975,
+                "maximum_grade": 13.9,
+                "name": "Levi's GranFondo: Start to Monte Rio",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443151,
+                "start_latlng": [
+                    38.443151,
+                    -122.750149
+                ],
+                "start_longitude": -122.750149,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 180.7,
+            "distance": 74745.6,
+            "elapsed_time": 10452,
+            "end_index": 1868,
+            "hidden": false,
+            "id": 4792121478,
+            "kom_rank": null,
+            "moving_time": 9524,
+            "name": "Levi's GranFondo: Start to King Ridge Rest Stop",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.4,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 74299.3,
+                "elevation_high": 508.6,
+                "elevation_low": 3.4,
+                "end_latitude": 38.610617,
+                "end_latlng": [
+                    38.610617,
+                    -123.280447
+                ],
+                "end_longitude": -123.280447,
+                "id": 8218015,
+                "maximum_grade": 26.0,
+                "name": "Levi's GranFondo: Start to King Ridge Rest Stop",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443151,
+                "start_latlng": [
+                    38.443151,
+                    -122.750149
+                ],
+                "start_longitude": -122.750149,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 175.2,
+            "distance": 92119.0,
+            "elapsed_time": 14228,
+            "end_index": 2485,
+            "hidden": false,
+            "id": 4792121558,
+            "kom_rank": null,
+            "moving_time": 12500,
+            "name": "Levi's GranFondo: Start to Ritchey Ranch Rest Stop",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.4,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 91444.0,
+                "elevation_high": 508.6,
+                "elevation_low": 3.4,
+                "end_latitude": 38.53146,
+                "end_latlng": [
+                    38.53146,
+                    -123.217244
+                ],
+                "end_longitude": -123.217244,
+                "id": 8218030,
+                "maximum_grade": 26.0,
+                "name": "Levi's GranFondo: Start to Ritchey Ranch Rest Stop",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443186,
+                "start_latlng": [
+                    38.443186,
+                    -122.750221
+                ],
+                "start_longitude": -122.750221,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 189.8,
+            "distance": 48019.0,
+            "elapsed_time": 5290,
+            "end_index": 988,
+            "hidden": false,
+            "id": 4792121372,
+            "kom_rank": null,
+            "moving_time": 5290,
+            "name": "Levi's GranFondo: Start to Cazadero",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.0,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 47974.9,
+                "elevation_high": 199.6,
+                "elevation_low": 3.4,
+                "end_latitude": 38.532571,
+                "end_latlng": [
+                    38.532571,
+                    -123.085161
+                ],
+                "end_longitude": -123.085161,
+                "id": 8217992,
+                "maximum_grade": 13.9,
+                "name": "Levi's GranFondo: Start to Cazadero",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443151,
+                "start_latlng": [
+                    38.443151,
+                    -122.750149
+                ],
+                "start_longitude": -122.750149,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 164.1,
+            "distance": 164653.0,
+            "elapsed_time": 27397,
+            "end_index": 4206,
+            "hidden": false,
+            "id": 4792121940,
+            "kom_rank": null,
+            "moving_time": 21872,
+            "name": "Levi's Gran Fondo 2012",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.0,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 165077.0,
+                "elevation_high": 550.8,
+                "elevation_low": 13.8,
+                "end_latitude": 38.44172403216362,
+                "end_latlng": [
+                    38.44172403216362,
+                    -122.74717904627323
+                ],
+                "end_longitude": -122.74717904627323,
+                "id": 2572537,
+                "maximum_grade": 85.9,
+                "name": "Levi's Gran Fondo 2012",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.44325247220695,
+                "start_latlng": [
+                    38.44325247220695,
+                    -122.75034723803401
+                ],
+                "start_longitude": -122.75034723803401,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 166.0,
+            "distance": 139618.0,
+            "elapsed_time": 22921,
+            "end_index": 3723,
+            "hidden": false,
+            "id": 4792121812,
+            "kom_rank": null,
+            "moving_time": 18978,
+            "name": "Levi's GranFondo: Start to Occidental (2nd time on the way back) via Bitner",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.1,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 139071.0,
+                "elevation_high": 508.6,
+                "elevation_low": 3.4,
+                "end_latitude": 38.409507,
+                "end_latlng": [
+                    38.409507,
+                    -122.948615
+                ],
+                "end_longitude": -122.948615,
+                "id": 8218085,
+                "maximum_grade": 48.5,
+                "name": "Levi's GranFondo: Start to Occidental (2nd time on the way back) via Bitner",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443151,
+                "start_latlng": [
+                    38.443151,
+                    -122.750149
+                ],
+                "start_longitude": -122.750149,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 170.1,
+            "distance": 120625.0,
+            "elapsed_time": 19462,
+            "end_index": 3133,
+            "hidden": false,
+            "id": 4792121697,
+            "kom_rank": null,
+            "moving_time": 15752,
+            "name": "Levi's GranFondo: Start to Coleman Valley Rd",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.0,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 120011.0,
+                "elevation_high": 508.6,
+                "elevation_low": 3.4,
+                "end_latitude": 38.365336,
+                "end_latlng": [
+                    38.365336,
+                    -123.070881
+                ],
+                "end_longitude": -123.070881,
+                "id": 8218062,
+                "maximum_grade": 45.1,
+                "name": "Levi's GranFondo: Start to Coleman Valley Rd",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443151,
+                "start_latlng": [
+                    38.443151,
+                    -122.750149
+                ],
+                "start_longitude": -122.750149,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 168.9,
+            "distance": 23126.2,
+            "elapsed_time": 2882,
+            "end_index": 437,
+            "hidden": false,
+            "id": 4792121298,
+            "kom_rank": null,
+            "moving_time": 2882,
+            "name": "Levi's GranFondo: Start to Occidental",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.5,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 23056.5,
+                "elevation_high": 199.6,
+                "elevation_low": 21.0,
+                "end_latitude": 38.410586,
+                "end_latlng": [
+                    38.410586,
+                    -122.948954
+                ],
+                "end_longitude": -122.948954,
+                "id": 8217869,
+                "maximum_grade": 13.9,
+                "name": "Levi's GranFondo: Start to Occidental",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.443186,
+                "start_latlng": [
+                    38.443186,
+                    -122.750221
+                ],
+                "start_longitude": -122.750221,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T15:07:39Z",
+            "start_date_local": "2014-10-04T08:07:39Z",
+            "start_index": 1
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 164.3,
+            "distance": 164443.0,
+            "elapsed_time": 27360,
+            "end_index": 4206,
+            "hidden": false,
+            "id": 4792121946,
+            "kom_rank": null,
+            "moving_time": 21835,
+            "name": "Levi's Gran Fondo 2013",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.0,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 163678.0,
+                "elevation_high": 507.6,
+                "elevation_low": -1.8,
+                "end_latitude": 38.441848,
+                "end_latlng": [
+                    38.441848,
+                    -122.747324
+                ],
+                "end_longitude": -122.747324,
+                "id": 5694451,
+                "maximum_grade": 38.5,
+                "name": "Levi's Gran Fondo 2013",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.444719,
+                "start_latlng": [
+                    38.444719,
+                    -122.751215
+                ],
+                "start_longitude": -122.751215,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:08:16Z",
+            "start_date_local": "2014-10-04T08:08:16Z",
+            "start_index": 6
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 151.9,
+            "distance": 1579.1,
+            "elapsed_time": 171,
+            "end_index": 105,
+            "hidden": false,
+            "id": 4792121241,
+            "kom_rank": null,
+            "moving_time": 171,
+            "name": "the donkey mile",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.3,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1554.9,
+                "elevation_high": 32.6,
+                "elevation_low": 24.1,
+                "end_latitude": 38.437856,
+                "end_latlng": [
+                    38.437856,
+                    -122.824742
+                ],
+                "end_longitude": -122.824742,
+                "id": 5375059,
+                "maximum_grade": 2.4,
+                "name": "the donkey mile",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.437855,
+                "start_latlng": [
+                    38.437855,
+                    -122.806953
+                ],
+                "start_longitude": -122.806953,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:19:23Z",
+            "start_date_local": "2014-10-04T08:19:23Z",
+            "start_index": 85
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 171.4,
+            "distance": 1997.7,
+            "elapsed_time": 275,
+            "end_index": 165,
+            "hidden": false,
+            "id": 4792121248,
+            "kom_rank": null,
+            "moving_time": 275,
+            "name": "Sanford to 116 on Oxy Rd.",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.9,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1967.37,
+                "elevation_high": 18.2,
+                "elevation_low": -18.8,
+                "end_latitude": 38.42566614970565,
+                "end_latlng": [
+                    38.42566614970565,
+                    -122.84736324101686
+                ],
+                "end_longitude": -122.84736324101686,
+                "id": 1447507,
+                "maximum_grade": 5.6,
+                "name": "Sanford to 116 on Oxy Rd.",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.42535115778446,
+                "start_latlng": [
+                    38.42535115778446,
+                    -122.82662943005562
+                ],
+                "start_longitude": -122.82662943005562,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:24:54Z",
+            "start_date_local": "2014-10-04T08:24:54Z",
+            "start_index": 127
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 163.3,
+            "distance": 2369.0,
+            "elapsed_time": 247,
+            "end_index": 197,
+            "hidden": false,
+            "id": 4792121251,
+            "kom_rank": null,
+            "moving_time": 247,
+            "name": "116 to Mill Station",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.5,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 2396.61,
+                "elevation_high": 55.2,
+                "elevation_low": 38.0,
+                "end_latitude": 38.42008958570659,
+                "end_latlng": [
+                    38.42008958570659,
+                    -122.87463309243321
+                ],
+                "end_longitude": -122.87463309243321,
+                "id": 3277965,
+                "maximum_grade": 6.5,
+                "name": "116 to Mill Station",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.4257186204195,
+                "start_latlng": [
+                    38.4257186204195,
+                    -122.84846160560846
+                ],
+                "start_longitude": -122.84846160560846,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:29:44Z",
+            "start_date_local": "2014-10-04T08:29:44Z",
+            "start_index": 167
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 208.8,
+            "distance": 2275.8,
+            "elapsed_time": 308,
+            "end_index": 236,
+            "hidden": false,
+            "id": 4792121254,
+            "kom_rank": null,
+            "moving_time": 308,
+            "name": "Occidental rd north to gilliam cemetery",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 2.1,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 2252.23,
+                "elevation_high": 74.6,
+                "elevation_low": 26.6,
+                "end_latitude": 38.4314632,
+                "end_latlng": [
+                    38.4314632,
+                    -122.8818409
+                ],
+                "end_longitude": -122.8818409,
+                "id": 958673,
+                "maximum_grade": 69.5,
+                "name": "Occidental rd north to gilliam cemetery",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.4224419,
+                "start_latlng": [
+                    38.4224419,
+                    -122.86785
+                ],
+                "start_longitude": -122.86785,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:32:39Z",
+            "start_date_local": "2014-10-04T08:32:39Z",
+            "start_index": 188
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 267.7,
+            "distance": 183.4,
+            "elapsed_time": 33,
+            "end_index": 236,
+            "hidden": false,
+            "id": 4792121256,
+            "kom_rank": null,
+            "moving_time": 33,
+            "name": "Cemetery Sprint",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 7.0,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 143.8,
+                "elevation_high": 30.8,
+                "elevation_low": 20.8,
+                "end_latitude": 38.431464,
+                "end_latlng": [
+                    38.431464,
+                    -122.881917
+                ],
+                "end_longitude": -122.881917,
+                "id": 5637541,
+                "maximum_grade": 14.4,
+                "name": "Cemetery Sprint",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.431181,
+                "start_latlng": [
+                    38.431181,
+                    -122.880626
+                ],
+                "start_longitude": -122.880626,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:37:14Z",
+            "start_date_local": "2014-10-04T08:37:14Z",
+            "start_index": 231
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 216.6,
+            "distance": 6238.1,
+            "elapsed_time": 903,
+            "end_index": 411,
+            "hidden": false,
+            "id": 4792121292,
+            "kom_rank": null,
+            "moving_time": 903,
+            "name": "Almost SRCC Speed Trap",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 2.5,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 6309.4,
+                "elevation_high": 215.8,
+                "elevation_low": 35.8,
+                "end_latitude": 38.416459,
+                "end_latlng": [
+                    38.416459,
+                    -122.935948
+                ],
+                "end_longitude": -122.935948,
+                "id": 7281900,
+                "maximum_grade": 36.7,
+                "name": "Almost SRCC Speed Trap",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.435665,
+                "start_latlng": [
+                    38.435665,
+                    -122.881931
+                ],
+                "start_longitude": -122.881931,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:38:31Z",
+            "start_date_local": "2014-10-04T08:38:31Z",
+            "start_index": 243
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 220.5,
+            "distance": 6063.2,
+            "elapsed_time": 877,
+            "end_index": 406,
+            "hidden": false,
+            "id": 4792121264,
+            "kom_rank": null,
+            "moving_time": 877,
+            "name": "Graton Rd., Sullivan to Facendini",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 2.4,
+                "city": null,
+                "climb_category": 0,
+                "country": null,
+                "distance": 6086.3,
+                "elevation_high": 205.2,
+                "elevation_low": 37.4,
+                "end_latitude": 38.416422,
+                "end_latlng": [
+                    38.416422,
+                    -122.934403
+                ],
+                "end_longitude": -122.934403,
+                "id": 7750436,
+                "maximum_grade": 13.9,
+                "name": "Graton Rd., Sullivan to Facendini",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.435831,
+                "start_latlng": [
+                    38.435831,
+                    -122.882139
+                ],
+                "start_longitude": -122.882139,
+                "state": null
+            },
+            "start_date": "2014-10-04T15:38:36Z",
+            "start_date_local": "2014-10-04T08:38:36Z",
+            "start_index": 245
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 233.5,
+            "distance": 2854.4,
+            "elapsed_time": 510,
+            "end_index": 402,
+            "hidden": false,
+            "id": 4792121261,
+            "kom_rank": null,
+            "moving_time": 510,
+            "name": "Graton Hill",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 4.7,
+                "city": "Sebastopol",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 2879.87,
+                "elevation_high": 181.2,
+                "elevation_low": 46.4,
+                "end_latitude": 38.41677990742028,
+                "end_latlng": [
+                    38.41677990742028,
+                    -122.93353859335184
+                ],
+                "end_longitude": -122.93353859335184,
+                "id": 777639,
+                "maximum_grade": 9.3,
+                "name": "Graton Hill",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.41776201501489,
+                "start_latlng": [
+                    38.41776201501489,
+                    -122.90354738943279
+                ],
+                "start_longitude": -122.90354738943279,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:44:16Z",
+            "start_date_local": "2014-10-04T08:44:16Z",
+            "start_index": 303
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 233.6,
+            "distance": 2903.2,
+            "elapsed_time": 527,
+            "end_index": 405,
+            "hidden": false,
+            "id": 4792121266,
+            "kom_rank": null,
+            "moving_time": 527,
+            "name": "Graton Road",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 4.9,
+                "city": "Sebastopol",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 2919.76,
+                "elevation_high": 206.6,
+                "elevation_low": 63.8,
+                "end_latitude": 38.4166286978871,
+                "end_latlng": [
+                    38.4166286978871,
+                    -122.934346022084
+                ],
+                "end_longitude": -122.934346022084,
+                "id": 630375,
+                "maximum_grade": 13.8,
+                "name": "Graton Road",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.4177589137107,
+                "start_latlng": [
+                    38.4177589137107,
+                    -122.903899513185
+                ],
+                "start_longitude": -122.903899513185,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:44:20Z",
+            "start_date_local": "2014-10-04T08:44:20Z",
+            "start_index": 304
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 246.7,
+            "distance": 1478.8,
+            "elapsed_time": 292,
+            "end_index": 408,
+            "hidden": false,
+            "id": 4792121287,
+            "kom_rank": null,
+            "moving_time": 292,
+            "name": "Top of Graton Rd heading west",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 6.0,
+                "city": "Sebastopol",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 1481.25,
+                "elevation_high": 204.5,
+                "elevation_low": 115.9,
+                "end_latitude": 38.416354,
+                "end_latlng": [
+                    38.416354,
+                    -122.934966
+                ],
+                "end_longitude": -122.934966,
+                "id": 253115,
+                "maximum_grade": 7.9,
+                "name": "Top of Graton Rd heading west",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.415578,
+                "start_latlng": [
+                    38.415578,
+                    -122.919461
+                ],
+                "start_longitude": -122.919461,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:48:28Z",
+            "start_date_local": "2014-10-04T08:48:28Z",
+            "start_index": 354
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 226.1,
+            "distance": 333.2,
+            "elapsed_time": 80,
+            "end_index": 406,
+            "hidden": false,
+            "id": 4792121271,
+            "kom_rank": null,
+            "moving_time": 80,
+            "name": "Top of Graton",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 7.2,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 315.5,
+                "elevation_high": 262.6,
+                "elevation_low": 240.0,
+                "end_latitude": 38.416481,
+                "end_latlng": [
+                    38.416481,
+                    -122.934423
+                ],
+                "end_longitude": -122.934423,
+                "id": 4302686,
+                "maximum_grade": 13.2,
+                "name": "Top of Graton",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.41555,
+                "start_latlng": [
+                    38.41555,
+                    -122.931396
+                ],
+                "start_longitude": -122.931396,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:51:53Z",
+            "start_date_local": "2014-10-04T08:51:53Z",
+            "start_index": 393
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 221.2,
+            "distance": 288.9,
+            "elapsed_time": 70,
+            "end_index": 406,
+            "hidden": false,
+            "id": 4792121273,
+            "kom_rank": null,
+            "moving_time": 70,
+            "name": "finish off the Graton Rd hill",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 7.1,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 266.0,
+                "elevation_high": 263.2,
+                "elevation_low": 244.4,
+                "end_latitude": 38.416461,
+                "end_latlng": [
+                    38.416461,
+                    -122.934471
+                ],
+                "end_longitude": -122.934471,
+                "id": 4357607,
+                "maximum_grade": 10.8,
+                "name": "finish off the Graton Rd hill",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.415919,
+                "start_latlng": [
+                    38.415919,
+                    -122.93179
+                ],
+                "start_longitude": -122.93179,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:52:03Z",
+            "start_date_local": "2014-10-04T08:52:03Z",
+            "start_index": 395
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 123.9,
+            "distance": 3628.1,
+            "elapsed_time": 328,
+            "end_index": 488,
+            "hidden": false,
+            "id": 4792121342,
+            "kom_rank": null,
+            "moving_time": 328,
+            "name": "Top of Graton - Camp Meeker",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -3.0,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 3609.66,
+                "elevation_high": 205.5,
+                "elevation_low": 96.3,
+                "end_latitude": 38.425593,
+                "end_latlng": [
+                    38.425593,
+                    -122.959667
+                ],
+                "end_longitude": -122.959667,
+                "id": 627608,
+                "maximum_grade": 5.6,
+                "name": "Top of Graton - Camp Meeker",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.416326,
+                "start_latlng": [
+                    38.416326,
+                    -122.935246
+                ],
+                "start_longitude": -122.935246,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:53:26Z",
+            "start_date_local": "2014-10-04T08:53:26Z",
+            "start_index": 409
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 220.0,
+            "distance": 578.3,
+            "elapsed_time": 48,
+            "end_index": 421,
+            "hidden": false,
+            "id": 4792121295,
+            "kom_rank": null,
+            "moving_time": 48,
+            "name": "BLITZKRIEG",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.3,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 596.2,
+                "elevation_high": 208.4,
+                "elevation_low": 200.8,
+                "end_latitude": 38.413634,
+                "end_latlng": [
+                    38.413634,
+                    -122.943785
+                ],
+                "end_longitude": -122.943785,
+                "id": 4392022,
+                "maximum_grade": 0.0,
+                "name": "BLITZKRIEG",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.416631,
+                "start_latlng": [
+                    38.416631,
+                    -122.938155
+                ],
+                "start_longitude": -122.938155,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:53:53Z",
+            "start_date_local": "2014-10-04T08:53:53Z",
+            "start_index": 415
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 175.1,
+            "distance": 9779.8,
+            "elapsed_time": 896,
+            "end_index": 664,
+            "hidden": false,
+            "id": 4792121347,
+            "kom_rank": null,
+            "moving_time": 896,
+            "name": "Occidental to Monte Rio",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.6,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 9860.29,
+                "elevation_high": 174.6,
+                "elevation_low": 21.2,
+                "end_latitude": 38.46354581415653,
+                "end_latlng": [
+                    38.46354581415653,
+                    -123.01079015247524
+                ],
+                "end_longitude": -123.01079015247524,
+                "id": 651360,
+                "maximum_grade": 3.6,
+                "name": "Occidental to Monte Rio",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.41065080836415,
+                "start_latlng": [
+                    38.41065080836415,
+                    -122.94945524074137
+                ],
+                "start_longitude": -122.94945524074137,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T15:55:47Z",
+            "start_date_local": "2014-10-04T08:55:47Z",
+            "start_index": 440
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 253.6,
+            "distance": 3414.3,
+            "elapsed_time": 339,
+            "end_index": 741,
+            "hidden": false,
+            "id": 4792121362,
+            "kom_rank": null,
+            "moving_time": 339,
+            "name": "Monte Rio ",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.1,
+                "city": "Monte Rio",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 3480.29,
+                "elevation_high": -1.4,
+                "elevation_low": -10.0,
+                "end_latitude": 38.46827454864979,
+                "end_latlng": [
+                    38.46827454864979,
+                    -123.03473020903766
+                ],
+                "end_longitude": -123.03473020903766,
+                "id": 1062931,
+                "maximum_grade": 5.6,
+                "name": "Monte Rio ",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.46567649394274,
+                "start_latlng": [
+                    38.46567649394274,
+                    -123.00943790003657
+                ],
+                "start_longitude": -123.00943790003657,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:11:52Z",
+            "start_date_local": "2014-10-04T09:11:52Z",
+            "start_index": 675
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 237.2,
+            "distance": 9764.3,
+            "elapsed_time": 959,
+            "end_index": 986,
+            "hidden": false,
+            "id": 4792121368,
+            "kom_rank": null,
+            "moving_time": 959,
+            "name": "Cazadero Highway to Cazadero",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.2,
+                "city": null,
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 9680.46,
+                "elevation_high": 31.0,
+                "elevation_low": 11.0,
+                "end_latitude": 38.53182069025934,
+                "end_latlng": [
+                    38.53182069025934,
+                    -123.08547643013299
+                ],
+                "end_longitude": -123.08547643013299,
+                "id": 780686,
+                "maximum_grade": 2.2,
+                "name": "Cazadero Highway to Cazadero",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.46718448214233,
+                "start_latlng": [
+                    38.46718448214233,
+                    -123.05102194659412
+                ],
+                "start_longitude": -123.05102194659412,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:19:41Z",
+            "start_date_local": "2014-10-04T09:19:41Z",
+            "start_index": 762
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 166.3,
+            "distance": 26823.1,
+            "elapsed_time": 6044,
+            "end_index": 1882,
+            "hidden": false,
+            "id": 4792121505,
+            "kom_rank": null,
+            "moving_time": 4316,
+            "name": "Kings Ridge Drift",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.2,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 27138.2,
+                "elevation_high": 512.4,
+                "elevation_low": 28.4,
+                "end_latitude": 38.60923,
+                "end_latlng": [
+                    38.60923,
+                    -123.280731
+                ],
+                "end_longitude": -123.280731,
+                "id": 5700838,
+                "maximum_grade": 40.4,
+                "name": "Kings Ridge Drift",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.53383,
+                "start_latlng": [
+                    38.53383,
+                    -123.085157
+                ],
+                "start_longitude": -123.085157,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:36:13Z",
+            "start_date_local": "2014-10-04T09:36:13Z",
+            "start_index": 994
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 170.4,
+            "distance": 26592.7,
+            "elapsed_time": 4194,
+            "end_index": 1869,
+            "hidden": false,
+            "id": 4792121481,
+            "kom_rank": null,
+            "moving_time": 4194,
+            "name": "LGF2013 - Cazadero to King Ridge Rest",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.2,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 26839.0,
+                "elevation_high": 529.1,
+                "elevation_low": 36.0,
+                "end_latitude": 38.61061,
+                "end_latlng": [
+                    38.61061,
+                    -123.280457
+                ],
+                "end_longitude": -123.280457,
+                "id": 5702538,
+                "maximum_grade": 32.4,
+                "name": "LGF2013 - Cazadero to King Ridge Rest",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.533725,
+                "start_latlng": [
+                    38.533725,
+                    -123.085782
+                ],
+                "start_longitude": -123.085782,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:52:02Z",
+            "start_date_local": "2014-10-04T09:52:02Z",
+            "start_index": 1003
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 136.8,
+            "distance": 1872.8,
+            "elapsed_time": 271,
+            "end_index": 1073,
+            "hidden": false,
+            "id": 4792121384,
+            "kom_rank": null,
+            "moving_time": 271,
+            "name": "Cazadero",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.3,
+                "city": "Russian River Coastal",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1847.34,
+                "elevation_high": 39.4,
+                "elevation_low": 13.6,
+                "end_latitude": 38.5514120478183,
+                "end_latlng": [
+                    38.5514120478183,
+                    -123.09182295575738
+                ],
+                "end_longitude": -123.09182295575738,
+                "id": 1062942,
+                "maximum_grade": 7.2,
+                "name": "Cazadero",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.53741326369345,
+                "start_latlng": [
+                    38.53741326369345,
+                    -123.08960401453078
+                ],
+                "start_longitude": -123.08960401453078,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:53:23Z",
+            "start_date_local": "2014-10-04T09:53:23Z",
+            "start_index": 1016
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 171.7,
+            "distance": 26068.7,
+            "elapsed_time": 4113,
+            "end_index": 1869,
+            "hidden": false,
+            "id": 4792121503,
+            "kom_rank": null,
+            "moving_time": 4113,
+            "name": "King Ridge - Complete",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.2,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 26054.5,
+                "elevation_high": 523.1,
+                "elevation_low": 28.5,
+                "end_latitude": 38.6105258,
+                "end_latlng": [
+                    38.6105258,
+                    -123.2806371
+                ],
+                "end_longitude": -123.2806371,
+                "id": 609186,
+                "maximum_grade": 18.7,
+                "name": "King Ridge - Complete",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.5373855,
+                "start_latlng": [
+                    38.5373855,
+                    -123.0896629
+                ],
+                "start_longitude": -123.0896629,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:53:23Z",
+            "start_date_local": "2014-10-04T09:53:23Z",
+            "start_index": 1016
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 165.1,
+            "distance": 31941.1,
+            "elapsed_time": 6121,
+            "end_index": 2121,
+            "hidden": false,
+            "id": 4792121524,
+            "kom_rank": null,
+            "moving_time": 5321,
+            "name": "Caz to Kruse via King Ridge",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.8,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 32320.8,
+                "elevation_high": 528.7,
+                "elevation_low": 35.8,
+                "end_latitude": 38.588518,
+                "end_latlng": [
+                    38.588518,
+                    -123.302285
+                ],
+                "end_longitude": -123.302285,
+                "id": 7943860,
+                "maximum_grade": 49.6,
+                "name": "Caz to Kruse via King Ridge",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.5378,
+                "start_latlng": [
+                    38.5378,
+                    -123.090071
+                ],
+                "start_longitude": -123.090071,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:53:32Z",
+            "start_date_local": "2014-10-04T09:53:32Z",
+            "start_index": 1018
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 197.3,
+            "distance": 8401.4,
+            "elapsed_time": 1568,
+            "end_index": 1340,
+            "hidden": false,
+            "id": 4792121394,
+            "kom_rank": null,
+            "moving_time": 1568,
+            "name": "",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.3,
+                "city": "Cazadero",
+                "climb_category": 2,
+                "country": "United States",
+                "distance": 8631.5,
+                "elevation_high": 327.5,
+                "elevation_low": 38.9,
+                "end_latitude": 38.586557,
+                "end_latlng": [
+                    38.586557,
+                    -123.128256
+                ],
+                "end_longitude": -123.128256,
+                "id": 5583860,
+                "maximum_grade": 46.9,
+                "name": "",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.541264,
+                "start_latlng": [
+                    38.541264,
+                    -123.091215
+                ],
+                "start_longitude": -123.091215,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:54:28Z",
+            "start_date_local": "2014-10-04T09:54:28Z",
+            "start_index": 1030
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 198.0,
+            "distance": 8356.9,
+            "elapsed_time": 1559,
+            "end_index": 1339,
+            "hidden": false,
+            "id": 4792121391,
+            "kom_rank": null,
+            "moving_time": 1559,
+            "name": "Initial King Ridge Climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.4,
+                "city": "Cazadero",
+                "climb_category": 2,
+                "country": "United States",
+                "distance": 8572.1,
+                "elevation_high": 327.5,
+                "elevation_low": 39.6,
+                "end_latitude": 38.586372,
+                "end_latlng": [
+                    38.586372,
+                    -123.128104
+                ],
+                "end_longitude": -123.128104,
+                "id": 5583870,
+                "maximum_grade": 46.9,
+                "name": "Initial King Ridge Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.541446,
+                "start_latlng": [
+                    38.541446,
+                    -123.090932
+                ],
+                "start_longitude": -123.090932,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T16:54:31Z",
+            "start_date_local": "2014-10-04T09:54:31Z",
+            "start_index": 1031
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 197.6,
+            "distance": 13613.3,
+            "elapsed_time": 2549,
+            "end_index": 1644,
+            "hidden": false,
+            "id": 4792121449,
+            "kom_rank": null,
+            "moving_time": 2549,
+            "name": "Kings Ridge major climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.3,
+                "city": null,
+                "climb_category": 3,
+                "country": "United States",
+                "distance": 13350.2,
+                "elevation_high": 506.0,
+                "elevation_low": 58.4,
+                "end_latitude": 38.60179298557341,
+                "end_latlng": [
+                    38.60179298557341,
+                    -123.20519020780921
+                ],
+                "end_longitude": -123.20519020780921,
+                "id": 3419330,
+                "maximum_grade": 45.0,
+                "name": "Kings Ridge major climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.563278475776315,
+                "start_latlng": [
+                    38.563278475776315,
+                    -123.10509972274303
+                ],
+                "start_longitude": -123.10509972274303,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:02:42Z",
+            "start_date_local": "2014-10-04T10:02:42Z",
+            "start_index": 1135
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 197.6,
+            "distance": 13613.3,
+            "elapsed_time": 2549,
+            "end_index": 1644,
+            "hidden": false,
+            "id": 4792121442,
+            "kom_rank": null,
+            "moving_time": 2549,
+            "name": "Kings Ridge major climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.3,
+                "city": null,
+                "climb_category": 3,
+                "country": "United States",
+                "distance": 13350.2,
+                "elevation_high": 506.0,
+                "elevation_low": 58.4,
+                "end_latitude": 38.60179298557341,
+                "end_latlng": [
+                    38.60179298557341,
+                    -123.20519020780921
+                ],
+                "end_longitude": -123.20519020780921,
+                "id": 3419328,
+                "maximum_grade": 45.0,
+                "name": "Kings Ridge major climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.563278475776315,
+                "start_latlng": [
+                    38.563278475776315,
+                    -123.10509972274303
+                ],
+                "start_longitude": -123.10509972274303,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:02:42Z",
+            "start_date_local": "2014-10-04T10:02:42Z",
+            "start_index": 1135
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 207.3,
+            "distance": 8631.0,
+            "elapsed_time": 1850,
+            "end_index": 1487,
+            "hidden": false,
+            "id": 4792121429,
+            "kom_rank": null,
+            "moving_time": 1850,
+            "name": "King Ridge Bearpen Bridge to 1st Ridge",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 4.6,
+                "city": null,
+                "climb_category": 3,
+                "country": null,
+                "distance": 8672.7,
+                "elevation_high": 478.8,
+                "elevation_low": 79.0,
+                "end_latitude": 38.596741,
+                "end_latlng": [
+                    38.596741,
+                    -123.161592
+                ],
+                "end_longitude": -123.161592,
+                "id": 7241565,
+                "maximum_grade": 22.1,
+                "name": "King Ridge Bearpen Bridge to 1st Ridge",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.563736,
+                "start_latlng": [
+                    38.563736,
+                    -123.10594
+                ],
+                "start_longitude": -123.10594,
+                "state": null
+            },
+            "start_date": "2014-10-04T17:02:56Z",
+            "start_date_local": "2014-10-04T10:02:56Z",
+            "start_index": 1138
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 238.9,
+            "distance": 921.7,
+            "elapsed_time": 230,
+            "end_index": 1180,
+            "hidden": false,
+            "id": 4792121386,
+            "kom_rank": null,
+            "moving_time": 230,
+            "name": "King Ridge Rd Climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 7.6,
+                "city": null,
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 897.46,
+                "elevation_high": 178.2,
+                "elevation_low": 110.4,
+                "end_latitude": 38.57013990171254,
+                "end_latlng": [
+                    38.57013990171254,
+                    -123.10731556266546
+                ],
+                "end_longitude": -123.10731556266546,
+                "id": 777635,
+                "maximum_grade": 61.1,
+                "name": "King Ridge Rd Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.563945423811674,
+                "start_latlng": [
+                    38.563945423811674,
+                    -123.1058488972485
+                ],
+                "start_longitude": -123.1058488972485,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:02:58Z",
+            "start_date_local": "2014-10-04T10:02:58Z",
+            "start_index": 1139
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 240.2,
+            "distance": 1999.4,
+            "elapsed_time": 641,
+            "end_index": 1341,
+            "hidden": false,
+            "id": 4792121420,
+            "kom_rank": null,
+            "moving_time": 641,
+            "name": "1st climb- Kings Ridge",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 10.7,
+                "city": "Cazadero",
+                "climb_category": 2,
+                "country": "United States",
+                "distance": 2010.55,
+                "elevation_high": 329.4,
+                "elevation_low": 114.1,
+                "end_latitude": 38.5867673,
+                "end_latlng": [
+                    38.5867673,
+                    -123.1283658
+                ],
+                "end_longitude": -123.1283658,
+                "id": 603,
+                "maximum_grade": 155.3,
+                "name": "1st climb- Kings Ridge",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.5807209,
+                "start_latlng": [
+                    38.5807209,
+                    -123.1171489
+                ],
+                "start_longitude": -123.1171489,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:10:00Z",
+            "start_date_local": "2014-10-04T10:10:00Z",
+            "start_index": 1236
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 210.7,
+            "distance": 6424.0,
+            "elapsed_time": 1498,
+            "end_index": 1508,
+            "hidden": false,
+            "id": 4792121437,
+            "kom_rank": null,
+            "moving_time": 1498,
+            "name": "LGF2013 - King Ridge Climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 5.7,
+                "city": "Cazadero",
+                "climb_category": 3,
+                "country": "United States",
+                "distance": 6584.6,
+                "elevation_high": 497.8,
+                "elevation_low": 109.8,
+                "end_latitude": 38.595546,
+                "end_latlng": [
+                    38.595546,
+                    -123.166674
+                ],
+                "end_longitude": -123.166674,
+                "id": 5702917,
+                "maximum_grade": 32.4,
+                "name": "LGF2013 - King Ridge Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.580782,
+                "start_latlng": [
+                    38.580782,
+                    -123.117197
+                ],
+                "start_longitude": -123.117197,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:10:05Z",
+            "start_date_local": "2014-10-04T10:10:05Z",
+            "start_index": 1237
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 200.8,
+            "distance": 10730.5,
+            "elapsed_time": 2100,
+            "end_index": 1645,
+            "hidden": false,
+            "id": 4792121458,
+            "kom_rank": null,
+            "moving_time": 2100,
+            "name": "King Ridge - Main Climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.8,
+                "city": "Cazadero",
+                "climb_category": 3,
+                "country": "United States",
+                "distance": 10747.9,
+                "elevation_high": 527.9,
+                "elevation_low": 124.6,
+                "end_latitude": 38.6016522,
+                "end_latlng": [
+                    38.6016522,
+                    -123.2054852
+                ],
+                "end_longitude": -123.2054852,
+                "id": 653822,
+                "maximum_grade": 23.5,
+                "name": "King Ridge - Main Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.5812689,
+                "start_latlng": [
+                    38.5812689,
+                    -123.1173314
+                ],
+                "start_longitude": -123.1173314,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:10:16Z",
+            "start_date_local": "2014-10-04T10:10:16Z",
+            "start_index": 1239
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 208.1,
+            "distance": 1529.8,
+            "elapsed_time": 299,
+            "end_index": 1418,
+            "hidden": false,
+            "id": 4792121424,
+            "kom_rank": null,
+            "moving_time": 299,
+            "name": "King Ridge Rd Climb",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 5.6,
+                "city": null,
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 1578.46,
+                "elevation_high": 399.4,
+                "elevation_low": 310.1,
+                "end_latitude": 38.59549693663175,
+                "end_latlng": [
+                    38.59549693663175,
+                    -123.1494694773381
+                ],
+                "end_longitude": -123.1494694773381,
+                "id": 745873,
+                "maximum_grade": 29.0,
+                "name": "King Ridge Rd Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.59046088349488,
+                "start_latlng": [
+                    38.59046088349488,
+                    -123.1341335325053
+                ],
+                "start_longitude": -123.1341335325053,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:22:15Z",
+            "start_date_local": "2014-10-04T10:22:15Z",
+            "start_index": 1365
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 230.1,
+            "distance": 1239.7,
+            "elapsed_time": 365,
+            "end_index": 1498,
+            "hidden": false,
+            "id": 4792121434,
+            "kom_rank": null,
+            "moving_time": 365,
+            "name": "2nd Climb Kings Ridge",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 9.2,
+                "city": "Cazadero",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 1217.55,
+                "elevation_high": 487.0,
+                "elevation_low": 374.1,
+                "end_latitude": 38.5955911,
+                "end_latlng": [
+                    38.5955911,
+                    -123.1631531
+                ],
+                "end_longitude": -123.1631531,
+                "id": 604,
+                "maximum_grade": 15.4,
+                "name": "2nd Climb Kings Ridge",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.5942425,
+                "start_latlng": [
+                    38.5942425,
+                    -123.1547497
+                ],
+                "start_longitude": -123.1547497,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:28:18Z",
+            "start_date_local": "2014-10-04T10:28:18Z",
+            "start_index": 1435
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 95.4,
+            "distance": 10613.7,
+            "elapsed_time": 2151,
+            "end_index": 1942,
+            "hidden": false,
+            "id": 4792121508,
+            "kom_rank": null,
+            "moving_time": 1351,
+            "name": "Top of Kings to Hauser Bridge",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -3.8,
+                "city": null,
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 10230.8,
+                "elevation_high": 510.2,
+                "elevation_low": 108.8,
+                "end_latitude": 38.60348118469119,
+                "end_latlng": [
+                    38.60348118469119,
+                    -123.28678091056645
+                ],
+                "end_longitude": -123.28678091056645,
+                "id": 779447,
+                "maximum_grade": 16.5,
+                "name": "Top of Kings to Hauser Bridge",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.60244736075401,
+                "start_latlng": [
+                    38.60244736075401,
+                    -123.20231144316494
+                ],
+                "start_longitude": -123.20231144316494,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:44:19Z",
+            "start_date_local": "2014-10-04T10:44:19Z",
+            "start_index": 1633
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 76.4,
+            "distance": 5803.4,
+            "elapsed_time": 629,
+            "end_index": 1819,
+            "hidden": false,
+            "id": 4792121471,
+            "kom_rank": null,
+            "moving_time": 629,
+            "name": "King RidgeSketchy Cattle Guard Descent",
+            "pr_rank": 3,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -3.5,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 5777.1,
+                "elevation_high": 497.0,
+                "elevation_low": 292.8,
+                "end_latitude": 38.618788,
+                "end_latlng": [
+                    38.618788,
+                    -123.258473
+                ],
+                "end_longitude": -123.258473,
+                "id": 5336801,
+                "maximum_grade": 9.6,
+                "name": "King RidgeSketchy Cattle Guard Descent",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.603096,
+                "start_latlng": [
+                    38.603096,
+                    -123.209103
+                ],
+                "start_longitude": -123.209103,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:45:58Z",
+            "start_date_local": "2014-10-04T10:45:58Z",
+            "start_index": 1655
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 44.8,
+            "distance": 4182.0,
+            "elapsed_time": 418,
+            "end_index": 1824,
+            "hidden": false,
+            "id": 4792121475,
+            "kom_rank": null,
+            "moving_time": 418,
+            "name": "King Ridge Roller Coaster DH",
+            "pr_rank": 3,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -4.6,
+                "city": null,
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 4222.76,
+                "elevation_high": 492.8,
+                "elevation_low": 297.0,
+                "end_latitude": 38.61749505624175,
+                "end_latlng": [
+                    38.61749505624175,
+                    -123.26171725988388
+                ],
+                "end_longitude": -123.26171725988388,
+                "id": 1366245,
+                "maximum_grade": 1.6,
+                "name": "King Ridge Roller Coaster DH",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.61297092400491,
+                "start_latlng": [
+                    38.61297092400491,
+                    -123.22284291498363
+                ],
+                "start_longitude": -123.22284291498363,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:49:50Z",
+            "start_date_local": "2014-10-04T10:49:50Z",
+            "start_index": 1708
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 0.0,
+            "distance": 1076.6,
+            "elapsed_time": 121,
+            "end_index": 1813,
+            "hidden": false,
+            "id": 4792121467,
+            "kom_rank": null,
+            "moving_time": 121,
+            "name": "King Ridge Sketchy Cattle Guard Mini",
+            "pr_rank": 3,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -7.7,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1104.4,
+                "elevation_high": 391.8,
+                "elevation_low": 306.6,
+                "end_latitude": 38.619563,
+                "end_latlng": [
+                    38.619563,
+                    -123.256731
+                ],
+                "end_longitude": -123.256731,
+                "id": 5336836,
+                "maximum_grade": -4.7,
+                "name": "King Ridge Sketchy Cattle Guard Mini",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.620679,
+                "start_latlng": [
+                    38.620679,
+                    -123.246917
+                ],
+                "start_longitude": -123.246917,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T17:54:07Z",
+            "start_date_local": "2014-10-04T10:54:07Z",
+            "start_index": 1774
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 159.4,
+            "distance": 17333.4,
+            "elapsed_time": 2944,
+            "end_index": 2486,
+            "hidden": false,
+            "id": 4792121594,
+            "kom_rank": null,
+            "moving_time": 2944,
+            "name": "LGF2013 - King Ridge to Ritchey Rest",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.7,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 17299.7,
+                "elevation_high": 474.4,
+                "elevation_low": 111.6,
+                "end_latitude": 38.531431,
+                "end_latlng": [
+                    38.531431,
+                    -123.217184
+                ],
+                "end_longitude": -123.217184,
+                "id": 5702593,
+                "maximum_grade": 26.3,
+                "name": "LGF2013 - King Ridge to Ritchey Rest",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.610286,
+                "start_latlng": [
+                    38.610286,
+                    -123.280657
+                ],
+                "start_longitude": -123.280657,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T18:15:48Z",
+            "start_date_local": "2014-10-04T11:15:48Z",
+            "start_index": 1877
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 155.8,
+            "distance": 17643.8,
+            "elapsed_time": 4288,
+            "end_index": 2509,
+            "hidden": false,
+            "id": 4792121597,
+            "kom_rank": null,
+            "moving_time": 3075,
+            "name": "KingRidge@TinBarn - FtRoss@MeyersGrade",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.7,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 18245.0,
+                "elevation_high": 474.5,
+                "elevation_low": 105.2,
+                "end_latitude": 38.529797,
+                "end_latlng": [
+                    38.529797,
+                    -123.214759
+                ],
+                "end_longitude": -123.214759,
+                "id": 8042372,
+                "maximum_grade": 39.0,
+                "name": "KingRidge@TinBarn - FtRoss@MeyersGrade",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.610545,
+                "start_latlng": [
+                    38.610545,
+                    -123.28064
+                ],
+                "start_longitude": -123.28064,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T18:15:52Z",
+            "start_date_local": "2014-10-04T11:15:52Z",
+            "start_index": 1878
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 1.1,
+            "distance": 1864.5,
+            "elapsed_time": 205,
+            "end_index": 1944,
+            "hidden": false,
+            "id": 4792121513,
+            "kom_rank": null,
+            "moving_time": 205,
+            "name": "King Ridge Summit to Hauser Bridge DH",
+            "pr_rank": 3,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -11.4,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1825.9,
+                "elevation_high": 352.2,
+                "elevation_low": 144.6,
+                "end_latitude": 38.603244,
+                "end_latlng": [
+                    38.603244,
+                    -123.286922
+                ],
+                "end_longitude": -123.286922,
+                "id": 7883810,
+                "maximum_grade": -2.3,
+                "name": "King Ridge Summit to Hauser Bridge DH",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.609482,
+                "start_latlng": [
+                    38.609482,
+                    -123.280759
+                ],
+                "start_longitude": -123.280759,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T18:16:51Z",
+            "start_date_local": "2014-10-04T11:16:51Z",
+            "start_index": 1881
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 1.2,
+            "distance": 1709.9,
+            "elapsed_time": 185,
+            "end_index": 1943,
+            "hidden": false,
+            "id": 4792121510,
+            "kom_rank": null,
+            "moving_time": 185,
+            "name": "Hauser Big Balls Descent",
+            "pr_rank": 3,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -14.1,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1665.1,
+                "elevation_high": 341.7,
+                "elevation_low": 107.2,
+                "end_latitude": 38.603399,
+                "end_latlng": [
+                    38.603399,
+                    -123.286892
+                ],
+                "end_longitude": -123.286892,
+                "id": 7632290,
+                "maximum_grade": 3.6,
+                "name": "Hauser Big Balls Descent",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.608633,
+                "start_latlng": [
+                    38.608633,
+                    -123.280743
+                ],
+                "start_longitude": -123.280743,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T18:17:06Z",
+            "start_date_local": "2014-10-04T11:17:06Z",
+            "start_index": 1884
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 211.3,
+            "distance": 2518.0,
+            "elapsed_time": 737,
+            "end_index": 2080,
+            "hidden": false,
+            "id": 4792121519,
+            "kom_rank": null,
+            "moving_time": 737,
+            "name": "Hauser Bridge Rd to Ratna Ling",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 8.2,
+                "city": "Cazadero",
+                "climb_category": 2,
+                "country": "United States",
+                "distance": 2483.77,
+                "elevation_high": 321.7,
+                "elevation_low": 116.5,
+                "end_latitude": 38.5998575,
+                "end_latlng": [
+                    38.5998575,
+                    -123.3009235
+                ],
+                "end_longitude": -123.3009235,
+                "id": 3499,
+                "maximum_grade": 14.1,
+                "name": "Hauser Bridge Rd to Ratna Ling",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.6026249,
+                "start_latlng": [
+                    38.6026249,
+                    -123.2870551
+                ],
+                "start_longitude": -123.2870551,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T18:20:24Z",
+            "start_date_local": "2014-10-04T11:20:24Z",
+            "start_index": 1946
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 150.7,
+            "distance": 5379.6,
+            "elapsed_time": 770,
+            "end_index": 2296,
+            "hidden": false,
+            "id": 4792121533,
+            "kom_rank": null,
+            "moving_time": 770,
+            "name": "1 2 Race ? Kruse to Timber",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.2,
+                "city": "Cazadero",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 5414.8,
+                "elevation_high": 395.8,
+                "elevation_low": 292.6,
+                "end_latitude": 38.556278,
+                "end_latlng": [
+                    38.556278,
+                    -123.267164
+                ],
+                "end_longitude": -123.267164,
+                "id": 8017312,
+                "maximum_grade": 15.3,
+                "name": "1 2 Race ? Kruse to Timber",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.588285,
+                "start_latlng": [
+                    38.588285,
+                    -123.302225
+                ],
+                "start_longitude": -123.302225,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T18:35:36Z",
+            "start_date_local": "2014-10-04T11:35:36Z",
+            "start_index": 2122
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 195.8,
+            "distance": 2061.4,
+            "elapsed_time": 422,
+            "end_index": 2261,
+            "hidden": false,
+            "id": 4792121530,
+            "kom_rank": null,
+            "moving_time": 422,
+            "name": "Seaview Road",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 4.7,
+                "city": "Jenner",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 2030.39,
+                "elevation_high": 347.6,
+                "elevation_low": 252.2,
+                "end_latitude": 38.5672451276332,
+                "end_latlng": [
+                    38.5672451276332,
+                    -123.273395514116
+                ],
+                "end_longitude": -123.273395514116,
+                "id": 627613,
+                "maximum_grade": 16.2,
+                "name": "Seaview Road",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.5762616246939,
+                "start_latlng": [
+                    38.5762616246939,
+                    -123.289255583659
+                ],
+                "start_longitude": -123.289255583659,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T18:39:06Z",
+            "start_date_local": "2014-10-04T11:39:06Z",
+            "start_index": 2173
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 202.5,
+            "distance": 2108.8,
+            "elapsed_time": 507,
+            "end_index": 2394,
+            "hidden": false,
+            "id": 4792121541,
+            "kom_rank": null,
+            "moving_time": 507,
+            "name": "Top of Seaview - Timber Cove to Meadow",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 7.0,
+                "city": "Cazadero",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 2008.71,
+                "elevation_high": 467.8,
+                "elevation_low": 326.5,
+                "end_latitude": 38.5485904,
+                "end_latlng": [
+                    38.5485904,
+                    -123.2456387
+                ],
+                "end_longitude": -123.2456387,
+                "id": 3515,
+                "maximum_grade": 44.5,
+                "name": "Top of Seaview - Timber Cove to Meadow",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.5560544,
+                "start_latlng": [
+                    38.5560544,
+                    -123.2643235
+                ],
+                "start_longitude": -123.2643235,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T18:48:53Z",
+            "start_date_local": "2014-10-04T11:48:53Z",
+            "start_index": 2305
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 156.0,
+            "distance": 26489.9,
+            "elapsed_time": 2879,
+            "end_index": 3079,
+            "hidden": false,
+            "id": 4792121659,
+            "kom_rank": null,
+            "moving_time": 2879,
+            "name": "LGF2013 - Ritchey to Portuguese Rest",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.7,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 26048.5,
+                "elevation_high": 499.4,
+                "elevation_low": 0.0,
+                "end_latitude": 38.378867,
+                "end_latlng": [
+                    38.378867,
+                    -123.07997
+                ],
+                "end_longitude": -123.07997,
+                "id": 5702634,
+                "maximum_grade": 15.4,
+                "name": "LGF2013 - Ritchey to Portuguese Rest",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.531129,
+                "start_latlng": [
+                    38.531129,
+                    -123.216597
+                ],
+                "start_longitude": -123.216597,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:26:39Z",
+            "start_date_local": "2014-10-04T12:26:39Z",
+            "start_index": 2504
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 63.0,
+            "distance": 7753.1,
+            "elapsed_time": 631,
+            "end_index": 2761,
+            "hidden": false,
+            "id": 4792121615,
+            "kom_rank": null,
+            "moving_time": 631,
+            "name": "Drop To The Ocean",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -6.2,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 7780.89,
+                "elevation_high": 490.4,
+                "elevation_low": 9.3,
+                "end_latitude": 38.470652,
+                "end_latlng": [
+                    38.470652,
+                    -123.153677
+                ],
+                "end_longitude": -123.153677,
+                "id": 627609,
+                "maximum_grade": 2.9,
+                "name": "Drop To The Ocean",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.511168,
+                "start_latlng": [
+                    38.511168,
+                    -123.19627
+                ],
+                "start_longitude": -123.19627,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:34:17Z",
+            "start_date_local": "2014-10-04T12:34:17Z",
+            "start_index": 2587
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 14.1,
+            "distance": 2234.0,
+            "elapsed_time": 170,
+            "end_index": 2675,
+            "hidden": false,
+            "id": 4792121602,
+            "kom_rank": null,
+            "moving_time": 170,
+            "name": "Meyers Grade Descent Only",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -10.4,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 2221.32,
+                "elevation_high": 443.8,
+                "elevation_low": 213.2,
+                "end_latitude": 38.4827674459666,
+                "end_latlng": [
+                    38.4827674459666,
+                    -123.1673847232014
+                ],
+                "end_longitude": -123.1673847232014,
+                "id": 2595577,
+                "maximum_grade": -3.1,
+                "name": "Meyers Grade Descent Only",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.49732362665236,
+                "start_latlng": [
+                    38.49732362665236,
+                    -123.18246426992118
+                ],
+                "start_longitude": -123.18246426992118,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:37:19Z",
+            "start_date_local": "2014-10-04T12:37:19Z",
+            "start_index": 2627
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 0.2,
+            "distance": 1953.4,
+            "elapsed_time": 148,
+            "end_index": 2673,
+            "hidden": false,
+            "id": 4793319018,
+            "kom_rank": null,
+            "moving_time": 148,
+            "name": "Meyers Grade Big Balls DH",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -11.1,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1988.7,
+                "elevation_high": 431.9,
+                "elevation_low": 211.8,
+                "end_latitude": 38.483457,
+                "end_latlng": [
+                    38.483457,
+                    -123.168551
+                ],
+                "end_longitude": -123.168551,
+                "id": 8278550,
+                "maximum_grade": 1.5,
+                "name": "Meyers Grade Big Balls DH",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.496611,
+                "start_latlng": [
+                    38.496611,
+                    -123.182035
+                ],
+                "start_longitude": -123.182035,
+                "state": "California"
+            },
+            "start_date": "2014-10-04T19:37:25Z",
+            "start_date_local": "2014-10-04T12:37:25Z",
+            "start_index": 2629
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 137.1,
+            "distance": 8054.5,
+            "elapsed_time": 838,
+            "end_index": 2869,
+            "hidden": false,
+            "id": 4792121637,
+            "kom_rank": null,
+            "moving_time": 838,
+            "name": "Meyers Grade Road to Jenner - Hwy 1",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -2.2,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 8109.25,
+                "elevation_high": 162.0,
+                "elevation_low": -17.2,
+                "end_latitude": 38.44988674856722,
+                "end_latlng": [
+                    38.44988674856722,
+                    -123.11538775451481
+                ],
+                "end_longitude": -123.11538775451481,
+                "id": 3399288,
+                "maximum_grade": 15.0,
+                "name": "Meyers Grade Road to Jenner - Hwy 1",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.47926246933639,
+                "start_latlng": [
+                    38.47926246933639,
+                    -123.16407571546733
+                ],
+                "start_longitude": -123.16407571546733,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:40:47Z",
+            "start_date_local": "2014-10-04T12:40:47Z",
+            "start_index": 2682
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 35.4,
+            "distance": 2746.7,
+            "elapsed_time": 224,
+            "end_index": 2760,
+            "hidden": false,
+            "id": 4792121609,
+            "kom_rank": null,
+            "moving_time": 224,
+            "name": "Russian Gulch Downhill",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -5.8,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 2743.81,
+                "elevation_high": 189.8,
+                "elevation_low": 30.4,
+                "end_latitude": 38.471230678260326,
+                "end_latlng": [
+                    38.471230678260326,
+                    -123.15442831255496
+                ],
+                "end_longitude": -123.15442831255496,
+                "id": 1366147,
+                "maximum_grade": 0.0,
+                "name": "Russian Gulch Downhill",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.47871940582991,
+                "start_latlng": [
+                    38.47871940582991,
+                    -123.1626249756664
+                ],
+                "start_longitude": -123.1626249756664,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:40:58Z",
+            "start_date_local": "2014-10-04T12:40:58Z",
+            "start_index": 2684
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 159.4,
+            "distance": 964.4,
+            "elapsed_time": 171,
+            "end_index": 2780,
+            "hidden": false,
+            "id": 4792121618,
+            "kom_rank": null,
+            "moving_time": 171,
+            "name": "Russian Gulch See Saw",
+            "pr_rank": 3,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.9,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 979.9,
+                "elevation_high": 59.7,
+                "elevation_low": 6.4,
+                "end_latitude": 38.46557,
+                "end_latlng": [
+                    38.46557,
+                    -123.15315
+                ],
+                "end_longitude": -123.15315,
+                "id": 7354396,
+                "maximum_grade": 27.8,
+                "name": "Russian Gulch See Saw",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.473529,
+                "start_latlng": [
+                    38.473529,
+                    -123.155585
+                ],
+                "start_longitude": -123.155585,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:44:24Z",
+            "start_date_local": "2014-10-04T12:44:24Z",
+            "start_index": 2756
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 171.9,
+            "distance": 4219.2,
+            "elapsed_time": 522,
+            "end_index": 2855,
+            "hidden": false,
+            "id": 4792121628,
+            "kom_rank": null,
+            "moving_time": 522,
+            "name": "Russian Gulch-Jenner",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.3,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 4209.0,
+                "elevation_high": 69.2,
+                "elevation_low": 6.3,
+                "end_latitude": 38.451303,
+                "end_latlng": [
+                    38.451303,
+                    -123.124927
+                ],
+                "end_longitude": -123.124927,
+                "id": 6729463,
+                "maximum_grade": 27.4,
+                "name": "Russian Gulch-Jenner",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.47072,
+                "start_latlng": [
+                    38.47072,
+                    -123.153741
+                ],
+                "start_longitude": -123.153741,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:44:48Z",
+            "start_date_local": "2014-10-04T12:44:48Z",
+            "start_index": 2761
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 187.1,
+            "distance": 15462.8,
+            "elapsed_time": 1786,
+            "end_index": 3079,
+            "hidden": false,
+            "id": 4792121684,
+            "kom_rank": null,
+            "moving_time": 1786,
+            "name": "LGF2013 - Russian Gulch Creek to Portuguese Beach",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.1,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 15283.6,
+                "elevation_high": 77.1,
+                "elevation_low": 0.0,
+                "end_latitude": 38.378742,
+                "end_latlng": [
+                    38.378742,
+                    -123.079981
+                ],
+                "end_longitude": -123.079981,
+                "id": 5702987,
+                "maximum_grade": 14.6,
+                "name": "LGF2013 - Russian Gulch Creek to Portuguese Beach",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.470414,
+                "start_latlng": [
+                    38.470414,
+                    -123.153508
+                ],
+                "start_longitude": -123.153508,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:44:52Z",
+            "start_date_local": "2014-10-04T12:44:52Z",
+            "start_index": 2762
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 189.6,
+            "distance": 578.8,
+            "elapsed_time": 149,
+            "end_index": 2781,
+            "hidden": false,
+            "id": 4792121622,
+            "kom_rank": null,
+            "moving_time": 149,
+            "name": "Russian Gulch Climb",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 8.3,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 605.5,
+                "elevation_high": 58.9,
+                "elevation_low": 8.3,
+                "end_latitude": 38.465572,
+                "end_latlng": [
+                    38.465572,
+                    -123.152801
+                ],
+                "end_longitude": -123.152801,
+                "id": 6729415,
+                "maximum_grade": 27.4,
+                "name": "Russian Gulch Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.470452,
+                "start_latlng": [
+                    38.470452,
+                    -123.153542
+                ],
+                "start_longitude": -123.153542,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:44:52Z",
+            "start_date_local": "2014-10-04T12:44:52Z",
+            "start_index": 2762
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 170.2,
+            "distance": 3196.7,
+            "elapsed_time": 311,
+            "end_index": 2850,
+            "hidden": false,
+            "id": 4792121624,
+            "kom_rank": null,
+            "moving_time": 311,
+            "name": "Jenner Sprint",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.9,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 3192.0,
+                "elevation_high": 67.4,
+                "elevation_low": 32.4,
+                "end_latitude": 38.4518,
+                "end_latlng": [
+                    38.4518,
+                    -123.126659
+                ],
+                "end_longitude": -123.126659,
+                "id": 4143216,
+                "maximum_grade": 3.7,
+                "name": "Jenner Sprint",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.464586,
+                "start_latlng": [
+                    38.464586,
+                    -123.150965
+                ],
+                "start_longitude": -123.150965,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:48:05Z",
+            "start_date_local": "2014-10-04T12:48:05Z",
+            "start_index": 2787
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 189.5,
+            "distance": 976.8,
+            "elapsed_time": 228,
+            "end_index": 2940,
+            "hidden": false,
+            "id": 4792121642,
+            "kom_rank": null,
+            "moving_time": 228,
+            "name": "Goat Rock Climb to GR Rd",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 5.2,
+                "city": "Jenner",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 997.8,
+                "elevation_high": 71.4,
+                "elevation_low": 14.6,
+                "end_latitude": 38.431036,
+                "end_latlng": [
+                    38.431036,
+                    -123.108713
+                ],
+                "end_longitude": -123.108713,
+                "id": 7496304,
+                "maximum_grade": 40.7,
+                "name": "Goat Rock Climb to GR Rd",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.433231,
+                "start_latlng": [
+                    38.433231,
+                    -123.100702
+                ],
+                "start_longitude": -123.100702,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T19:58:30Z",
+            "start_date_local": "2014-10-04T12:58:30Z",
+            "start_index": 2905
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 156.6,
+            "distance": 8920.4,
+            "elapsed_time": 1767,
+            "end_index": 3133,
+            "hidden": false,
+            "id": 4792121700,
+            "kom_rank": null,
+            "moving_time": 998,
+            "name": "Goat Rock to Coleman Valley Rd",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.7,
+                "city": "Russian River Coastal",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 8926.01,
+                "elevation_high": 76.4,
+                "elevation_low": 1.8,
+                "end_latitude": 38.365132,
+                "end_latlng": [
+                    38.365132,
+                    -123.070927
+                ],
+                "end_longitude": -123.070927,
+                "id": 729262,
+                "maximum_grade": 23.3,
+                "name": "Goat Rock to Coleman Valley Rd",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.430521,
+                "start_latlng": [
+                    38.430521,
+                    -123.108684
+                ],
+                "start_longitude": -123.108684,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:02:34Z",
+            "start_date_local": "2014-10-04T13:02:34Z",
+            "start_index": 2942
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 148.7,
+            "distance": 45933.8,
+            "elapsed_time": 8174,
+            "end_index": 4211,
+            "hidden": false,
+            "id": 4792121951,
+            "kom_rank": null,
+            "moving_time": 6359,
+            "name": "Rest Stop Schoolhouse Beach to Finish Line Levi Fondo",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.0,
+                "city": "Bodega Bay",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 45894.6,
+                "elevation_high": 338.4,
+                "elevation_low": 13.4,
+                "end_latitude": 38.443331848829985,
+                "end_latlng": [
+                    38.443331848829985,
+                    -122.74755254387856
+                ],
+                "end_longitude": -122.74755254387856,
+                "id": 2494598,
+                "maximum_grade": 23.6,
+                "name": "Rest Stop Schoolhouse Beach to Finish Line Levi Fondo",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.3777273632586,
+                "start_latlng": [
+                    38.3777273632586,
+                    -123.0796719621867
+                ],
+                "start_longitude": -123.0796719621867,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:28:25Z",
+            "start_date_local": "2014-10-04T13:28:25Z",
+            "start_index": 3091
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 168.6,
+            "distance": 9595.3,
+            "elapsed_time": 1923,
+            "end_index": 3381,
+            "hidden": false,
+            "id": 4792121769,
+            "kom_rank": null,
+            "moving_time": 1923,
+            "name": "LGF2013 - Portuguese to Coleman Rest",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.4,
+                "city": "Bodega Bay",
+                "climb_category": 3,
+                "country": "United States",
+                "distance": 9434.6,
+                "elevation_high": 338.4,
+                "elevation_low": 12.8,
+                "end_latitude": 38.402041,
+                "end_latlng": [
+                    38.402041,
+                    -123.025828
+                ],
+                "end_longitude": -123.025828,
+                "id": 5702673,
+                "maximum_grade": 17.0,
+                "name": "LGF2013 - Portuguese to Coleman Rest",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.37767,
+                "start_latlng": [
+                    38.37767,
+                    -123.07955
+                ],
+                "start_longitude": -123.07955,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:28:28Z",
+            "start_date_local": "2014-10-04T13:28:28Z",
+            "start_index": 3092
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 170.1,
+            "distance": 9160.1,
+            "elapsed_time": 1866,
+            "end_index": 3382,
+            "hidden": false,
+            "id": 4792121772,
+            "kom_rank": null,
+            "moving_time": 1866,
+            "name": "2012 Levi's GF Beach Rest Stop to Coleman Rest Stop",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.5,
+                "city": "Bodega Bay",
+                "climb_category": 3,
+                "country": "United States",
+                "distance": 9242.88,
+                "elevation_high": 313.0,
+                "elevation_low": -16.0,
+                "end_latitude": 38.40200504288077,
+                "end_latlng": [
+                    38.40200504288077,
+                    -123.02549628540874
+                ],
+                "end_longitude": -123.02549628540874,
+                "id": 2493941,
+                "maximum_grade": 21.4,
+                "name": "2012 Levi's GF Beach Rest Stop to Coleman Rest Stop",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.374437214806676,
+                "start_latlng": [
+                    38.374437214806676,
+                    -123.07765217497945
+                ],
+                "start_longitude": -123.07765217497945,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:29:31Z",
+            "start_date_local": "2014-10-04T13:29:31Z",
+            "start_index": 3103
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 173.7,
+            "distance": 6979.4,
+            "elapsed_time": 1585,
+            "end_index": 3356,
+            "hidden": false,
+            "id": 4792121759,
+            "kom_rank": null,
+            "moving_time": 1585,
+            "name": "Coleman Valley Climb",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 4.4,
+                "city": "Bodega Bay",
+                "climb_category": 2,
+                "country": "United States",
+                "distance": 6997.57,
+                "elevation_high": 331.0,
+                "elevation_low": 19.0,
+                "end_latitude": 38.402855806052685,
+                "end_latlng": [
+                    38.402855806052685,
+                    -123.03457195870578
+                ],
+                "end_longitude": -123.03457195870578,
+                "id": 778380,
+                "maximum_grade": 21.3,
+                "name": "Coleman Valley Climb",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.36510698311031,
+                "start_latlng": [
+                    38.36510698311031,
+                    -123.07049562223256
+                ],
+                "start_longitude": -123.07049562223256,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:32:05Z",
+            "start_date_local": "2014-10-04T13:32:05Z",
+            "start_index": 3134
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 148.9,
+            "distance": 44000.0,
+            "elapsed_time": 7931,
+            "end_index": 4206,
+            "hidden": false,
+            "id": 4792121944,
+            "kom_rank": null,
+            "moving_time": 6116,
+            "name": "Coleman to Santa Rosa",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.0,
+                "city": "Bodega Bay",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 44595.3,
+                "elevation_high": 328.8,
+                "elevation_low": 17.8,
+                "end_latitude": 38.44179737381637,
+                "end_latlng": [
+                    38.44179737381637,
+                    -122.74723017588258
+                ],
+                "end_longitude": -122.74723017588258,
+                "id": 779545,
+                "maximum_grade": 30.3,
+                "name": "Coleman to Santa Rosa",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.365074545145035,
+                "start_latlng": [
+                    38.365074545145035,
+                    -123.07055714540184
+                ],
+                "start_longitude": -123.07055714540184,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:32:05Z",
+            "start_date_local": "2014-10-04T13:32:05Z",
+            "start_index": 3134
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 155.3,
+            "distance": 13198.9,
+            "elapsed_time": 2742,
+            "end_index": 3559,
+            "hidden": false,
+            "id": 4792121780,
+            "kom_rank": null,
+            "moving_time": 2509,
+            "name": "Coleman from 1 to Joy",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 2.0,
+                "city": "Bodega Bay",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 13198.5,
+                "elevation_high": 334.2,
+                "elevation_low": 19.8,
+                "end_latitude": 38.4105273,
+                "end_latlng": [
+                    38.4105273,
+                    -122.9766968
+                ],
+                "end_longitude": -122.9766968,
+                "id": 636028,
+                "maximum_grade": 16.9,
+                "name": "Coleman from 1 to Joy",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.3654398,
+                "start_latlng": [
+                    38.3654398,
+                    -123.0700391
+                ],
+                "start_longitude": -123.0700391,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:32:15Z",
+            "start_date_local": "2014-10-04T13:32:15Z",
+            "start_index": 3136
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 206.6,
+            "distance": 2460.4,
+            "elapsed_time": 819,
+            "end_index": 3243,
+            "hidden": false,
+            "id": 4792121721,
+            "kom_rank": null,
+            "moving_time": 819,
+            "name": "Coleman Valley Road",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 9.5,
+                "city": "Bodega Bay",
+                "climb_category": 2,
+                "country": "United States",
+                "distance": 2496.67,
+                "elevation_high": 261.5,
+                "elevation_low": 21.1,
+                "end_latitude": 38.37198,
+                "end_latlng": [
+                    38.37198,
+                    -123.049713
+                ],
+                "end_longitude": -123.049713,
+                "id": 3639,
+                "maximum_grade": 33.8,
+                "name": "Coleman Valley Road",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.365473,
+                "start_latlng": [
+                    38.365473,
+                    -123.06991
+                ],
+                "start_longitude": -123.06991,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T20:32:22Z",
+            "start_date_local": "2014-10-04T13:32:22Z",
+            "start_index": 3137
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 140.2,
+            "distance": 36294.8,
+            "elapsed_time": 6242,
+            "end_index": 4211,
+            "hidden": false,
+            "id": 4792121953,
+            "kom_rank": null,
+            "moving_time": 4427,
+            "name": "Ocean Song Rest Stop to Finish Line Levi Gran Fondo  2012",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.8,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 36261.5,
+                "elevation_high": 338.4,
+                "elevation_low": 18.4,
+                "end_latitude": 38.443331848829985,
+                "end_latlng": [
+                    38.443331848829985,
+                    -122.74755254387856
+                ],
+                "end_longitude": -122.74755254387856,
+                "id": 2487677,
+                "maximum_grade": 23.6,
+                "name": "Ocean Song Rest Stop to Finish Line Levi Gran Fondo  2012",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.40186799876392,
+                "start_latlng": [
+                    38.40186799876392,
+                    -123.02540752105415
+                ],
+                "start_longitude": -123.02540752105415,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:00:37Z",
+            "start_date_local": "2014-10-04T14:00:37Z",
+            "start_index": 3382
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 118.3,
+            "distance": 11027.9,
+            "elapsed_time": 1497,
+            "end_index": 3723,
+            "hidden": false,
+            "id": 4792121793,
+            "kom_rank": null,
+            "moving_time": 1497,
+            "name": "LGF2013 - Coleman to Occidental Rest",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.5,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 10884.6,
+                "elevation_high": 333.3,
+                "elevation_low": 152.7,
+                "end_latitude": 38.409484,
+                "end_latlng": [
+                    38.409484,
+                    -122.94862
+                ],
+                "end_longitude": -122.94862,
+                "id": 5702736,
+                "maximum_grade": 20.5,
+                "name": "LGF2013 - Coleman to Occidental Rest",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.401966,
+                "start_latlng": [
+                    38.401966,
+                    -123.024482
+                ],
+                "start_longitude": -123.024482,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:04:43Z",
+            "start_date_local": "2014-10-04T14:04:43Z",
+            "start_index": 3387
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 181.0,
+            "distance": 1087.8,
+            "elapsed_time": 338,
+            "end_index": 3588,
+            "hidden": false,
+            "id": 4792121789,
+            "kom_rank": null,
+            "moving_time": 338,
+            "name": "Coleman Valley Rd to Fitzpatrick Ln",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 7.7,
+                "city": "Occidental",
+                "climb_category": 1,
+                "country": "United States",
+                "distance": 1070.58,
+                "elevation_high": 325.2,
+                "elevation_low": 242.3,
+                "end_latitude": 38.407262,
+                "end_latlng": [
+                    38.407262,
+                    -122.973172
+                ],
+                "end_longitude": -122.973172,
+                "id": 3643,
+                "maximum_grade": 12.1,
+                "name": "Coleman Valley Rd to Fitzpatrick Ln",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.410655,
+                "start_latlng": [
+                    38.410655,
+                    -122.982524
+                ],
+                "start_longitude": -122.982524,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:14:52Z",
+            "start_date_local": "2014-10-04T14:14:52Z",
+            "start_index": 3526
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 172.6,
+            "distance": 360.1,
+            "elapsed_time": 96,
+            "end_index": 3587,
+            "hidden": false,
+            "id": 4792121784,
+            "kom_rank": null,
+            "moving_time": 96,
+            "name": "ZOOM ZOOM",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 6.5,
+                "city": null,
+                "climb_category": 0,
+                "country": null,
+                "distance": 380.8,
+                "elevation_high": 311.4,
+                "elevation_low": 286.6,
+                "end_latitude": 38.407428,
+                "end_latlng": [
+                    38.407428,
+                    -122.973148
+                ],
+                "end_longitude": -122.973148,
+                "id": 4963857,
+                "maximum_grade": 17.0,
+                "name": "ZOOM ZOOM",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.410234,
+                "start_latlng": [
+                    38.410234,
+                    -122.975275
+                ],
+                "start_longitude": -122.975275,
+                "state": null
+            },
+            "start_date": "2014-10-04T21:18:51Z",
+            "start_date_local": "2014-10-04T14:18:51Z",
+            "start_index": 3569
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 153.5,
+            "distance": 25139.4,
+            "elapsed_time": 2886,
+            "end_index": 4214,
+            "hidden": false,
+            "id": 4792121962,
+            "kom_rank": null,
+            "moving_time": 2886,
+            "name": "2012 Levi's GF Occidental Rest Stop to Finish",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.6,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 25114.6,
+                "elevation_high": 192.4,
+                "elevation_low": -1.4,
+                "end_latitude": 38.44381783157587,
+                "end_latlng": [
+                    38.44381783157587,
+                    -122.7475159149617
+                ],
+                "end_longitude": -122.7475159149617,
+                "id": 2493991,
+                "maximum_grade": 16.6,
+                "name": "2012 Levi's GF Occidental Rest Stop to Finish",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.40989618562162,
+                "start_latlng": [
+                    38.40989618562162,
+                    -122.94895090162754
+                ],
+                "start_longitude": -122.94895090162754,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:56:50Z",
+            "start_date_local": "2014-10-04T14:56:50Z",
+            "start_index": 3737
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 154.7,
+            "distance": 24994.0,
+            "elapsed_time": 2855,
+            "end_index": 4210,
+            "hidden": false,
+            "id": 4792121949,
+            "kom_rank": null,
+            "moving_time": 2855,
+            "name": "LGF2013 - Occidental to Finish",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.5,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 24836.1,
+                "elevation_high": 215.9,
+                "elevation_low": 15.7,
+                "end_latitude": 38.443012,
+                "end_latlng": [
+                    38.443012,
+                    -122.747535
+                ],
+                "end_longitude": -122.747535,
+                "id": 5702767,
+                "maximum_grade": 17.8,
+                "name": "LGF2013 - Occidental to Finish",
+                "private": false,
+                "resource_state": 2,
+                "starred": true,
+                "start_latitude": 38.410211,
+                "start_latlng": [
+                    38.410211,
+                    -122.949114
+                ],
+                "start_longitude": -122.949114,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:56:57Z",
+            "start_date_local": "2014-10-04T14:56:57Z",
+            "start_index": 3740
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 143.5,
+            "distance": 7608.0,
+            "elapsed_time": 883,
+            "end_index": 3901,
+            "hidden": false,
+            "id": 4792121846,
+            "kom_rank": null,
+            "moving_time": 883,
+            "name": "Occidental",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.4,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 7587.53,
+                "elevation_high": 185.8,
+                "elevation_low": 18.4,
+                "end_latitude": 38.43582401052117,
+                "end_latlng": [
+                    38.43582401052117,
+                    -122.88233287632465
+                ],
+                "end_longitude": -122.88233287632465,
+                "id": 1062997,
+                "maximum_grade": 16.8,
+                "name": "Occidental",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.410425754264,
+                "start_latlng": [
+                    38.410425754264,
+                    -122.94917511753738
+                ],
+                "start_longitude": -122.94917511753738,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:57:03Z",
+            "start_date_local": "2014-10-04T14:57:03Z",
+            "start_index": 3742
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 159.3,
+            "distance": 1365.9,
+            "elapsed_time": 271,
+            "end_index": 3788,
+            "hidden": false,
+            "id": 4792121826,
+            "kom_rank": null,
+            "moving_time": 271,
+            "name": "Graton Road - Occidental to Top",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 3.6,
+                "city": "Occidental",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1355.0,
+                "elevation_high": 216.2,
+                "elevation_low": 166.4,
+                "end_latitude": 38.416358,
+                "end_latlng": [
+                    38.416358,
+                    -122.935608
+                ],
+                "end_longitude": -122.935608,
+                "id": 5252616,
+                "maximum_grade": 23.1,
+                "name": "Graton Road - Occidental to Top",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.410686,
+                "start_latlng": [
+                    38.410686,
+                    -122.948152
+                ],
+                "start_longitude": -122.948152,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T21:57:18Z",
+            "start_date_local": "2014-10-04T14:57:18Z",
+            "start_index": 3746
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 105.6,
+            "distance": 3477.0,
+            "elapsed_time": 271,
+            "end_index": 3852,
+            "hidden": false,
+            "id": 4792121834,
+            "kom_rank": null,
+            "moving_time": 271,
+            "name": "Tanuda Road to Purrinton Creek",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -4.2,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 3452.22,
+                "elevation_high": 220.2,
+                "elevation_low": 74.0,
+                "end_latitude": 38.42040851712227,
+                "end_latlng": [
+                    38.42040851712227,
+                    -122.89847197942436
+                ],
+                "end_longitude": -122.89847197942436,
+                "id": 832429,
+                "maximum_grade": -0.8,
+                "name": "Tanuda Road to Purrinton Creek",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.41659181751311,
+                "start_latlng": [
+                    38.41659181751311,
+                    -122.93386842124164
+                ],
+                "start_longitude": -122.93386842124164,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:02:11Z",
+            "start_date_local": "2014-10-04T15:02:11Z",
+            "start_index": 3792
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 161.4,
+            "distance": 21680.0,
+            "elapsed_time": 2367,
+            "end_index": 4185,
+            "hidden": false,
+            "id": 4792121929,
+            "kom_rank": null,
+            "moving_time": 2367,
+            "name": "Levi's Gran Fondo - Horses to the barn TTT",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.5,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 21684.9,
+                "elevation_high": 155.3,
+                "elevation_low": 15.4,
+                "end_latitude": 38.438035,
+                "end_latlng": [
+                    38.438035,
+                    -122.745084
+                ],
+                "end_longitude": -122.745084,
+                "id": 5714336,
+                "maximum_grade": 14.5,
+                "name": "Levi's Gran Fondo - Horses to the barn TTT",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.414344,
+                "start_latlng": [
+                    38.414344,
+                    -122.926245
+                ],
+                "start_longitude": -122.926245,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:03:00Z",
+            "start_date_local": "2014-10-04T15:03:00Z",
+            "start_index": 3805
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 180.6,
+            "distance": 2178.2,
+            "elapsed_time": 195,
+            "end_index": 3872,
+            "hidden": false,
+            "id": 4792121841,
+            "kom_rank": null,
+            "moving_time": 195,
+            "name": "Graton Rd Hussle",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.4,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 2190.0,
+                "elevation_high": 70.4,
+                "elevation_low": 39.9,
+                "end_latitude": 38.433943,
+                "end_latlng": [
+                    38.433943,
+                    -122.891803
+                ],
+                "end_longitude": -122.891803,
+                "id": 6307092,
+                "maximum_grade": 5.6,
+                "name": "Graton Rd Hussle",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.417685,
+                "start_latlng": [
+                    38.417685,
+                    -122.903659
+                ],
+                "start_longitude": -122.903659,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:05:51Z",
+            "start_date_local": "2014-10-04T15:05:51Z",
+            "start_index": 3844
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 190.1,
+            "distance": 1475.7,
+            "elapsed_time": 133,
+            "end_index": 3869,
+            "hidden": false,
+            "id": 4792121838,
+            "kom_rank": null,
+            "moving_time": 133,
+            "name": "Graton Road Sprint",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.9,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1458.26,
+                "elevation_high": 87.0,
+                "elevation_low": 54.0,
+                "end_latitude": 38.43305152844491,
+                "end_latlng": [
+                    38.43305152844491,
+                    -122.89208991464497
+                ],
+                "end_longitude": -122.89208991464497,
+                "id": 2411590,
+                "maximum_grade": 1.7,
+                "name": "Graton Road Sprint",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.420861139929315,
+                "start_latlng": [
+                    38.420861139929315,
+                    -122.89792472508074
+                ],
+                "start_longitude": -122.89792472508074,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:06:42Z",
+            "start_date_local": "2014-10-04T15:06:42Z",
+            "start_index": 3852
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 158.9,
+            "distance": 18437.6,
+            "elapsed_time": 2157,
+            "end_index": 4215,
+            "hidden": false,
+            "id": 4792121966,
+            "kom_rank": null,
+            "moving_time": 2157,
+            "name": "Last 11.5 of LLGF",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -0.1,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 18440.9,
+                "elevation_high": 90.6,
+                "elevation_low": 31.2,
+                "end_latitude": 38.44372822903097,
+                "end_latlng": [
+                    38.44372822903097,
+                    -122.74730393663049
+                ],
+                "end_longitude": -122.74730393663049,
+                "id": 2523040,
+                "maximum_grade": 13.9,
+                "name": "Last 11.5 of LLGF",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.43349928967655,
+                "start_latlng": [
+                    38.43349928967655,
+                    -122.89203509688377
+                ],
+                "start_longitude": -122.89203509688377,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:09:00Z",
+            "start_date_local": "2014-10-04T15:09:00Z",
+            "start_index": 3870
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 156.7,
+            "distance": 877.8,
+            "elapsed_time": 157,
+            "end_index": 3901,
+            "hidden": false,
+            "id": 4792121849,
+            "kom_rank": null,
+            "moving_time": 157,
+            "name": "Ilanflower's Afternoon Delight",
+            "pr_rank": 2,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 2.2,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 881.348,
+                "elevation_high": 60.7,
+                "elevation_low": 34.3,
+                "end_latitude": 38.4357926,
+                "end_latlng": [
+                    38.4357926,
+                    -122.8820942
+                ],
+                "end_longitude": -122.8820942,
+                "id": 630154,
+                "maximum_grade": 8.3,
+                "name": "Ilanflower's Afternoon Delight",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.4340428,
+                "start_latlng": [
+                    38.4340428,
+                    -122.8913455
+                ],
+                "start_longitude": -122.8913455,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:09:09Z",
+            "start_date_local": "2014-10-04T15:09:09Z",
+            "start_index": 3874
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 225.6,
+            "distance": 1140.2,
+            "elapsed_time": 113,
+            "end_index": 3965,
+            "hidden": false,
+            "id": 4792121858,
+            "kom_rank": null,
+            "moving_time": 113,
+            "name": "Kendall To Barlow",
+            "pr_rank": null,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.3,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1083.7,
+                "elevation_high": 25.0,
+                "elevation_low": 19.2,
+                "end_latitude": 38.424694,
+                "end_latlng": [
+                    38.424694,
+                    -122.858815
+                ],
+                "end_longitude": -122.858815,
+                "id": 6278412,
+                "maximum_grade": 4.0,
+                "name": "Kendall To Barlow",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.421458,
+                "start_latlng": [
+                    38.421458,
+                    -122.870455
+                ],
+                "start_longitude": -122.870455,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:17:01Z",
+            "start_date_local": "2014-10-04T15:17:01Z",
+            "start_index": 3952
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 185.2,
+            "distance": 1358.9,
+            "elapsed_time": 172,
+            "end_index": 3982,
+            "hidden": false,
+            "id": 4792121867,
+            "kom_rank": null,
+            "moving_time": 172,
+            "name": " Occidental Rd W County trails to 116 East",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.3,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1344.45,
+                "elevation_high": 47.2,
+                "elevation_low": 29.5,
+                "end_latitude": 38.425566,
+                "end_latlng": [
+                    38.425566,
+                    -122.8483136
+                ],
+                "end_longitude": -122.8483136,
+                "id": 885369,
+                "maximum_grade": 49.4,
+                "name": " Occidental Rd W County trails to 116 East",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.4234791,
+                "start_latlng": [
+                    38.4234791,
+                    -122.8633433
+                ],
+                "start_longitude": -122.8633433,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:18:06Z",
+            "start_date_local": "2014-10-04T15:18:06Z",
+            "start_index": 3959
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 188.2,
+            "distance": 892.4,
+            "elapsed_time": 112,
+            "end_index": 3979,
+            "hidden": false,
+            "id": 4792121863,
+            "kom_rank": null,
+            "moving_time": 112,
+            "name": "Barlow to 116",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 1.3,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 876.4,
+                "elevation_high": 64.8,
+                "elevation_low": 51.6,
+                "end_latitude": 38.425624,
+                "end_latlng": [
+                    38.425624,
+                    -122.848643
+                ],
+                "end_longitude": -122.848643,
+                "id": 5375209,
+                "maximum_grade": 7.4,
+                "name": "Barlow to 116",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.424748,
+                "start_latlng": [
+                    38.424748,
+                    -122.858604
+                ],
+                "start_longitude": -122.858604,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:18:54Z",
+            "start_date_local": "2014-10-04T15:18:54Z",
+            "start_index": 3965
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 208.2,
+            "distance": 1054.8,
+            "elapsed_time": 88,
+            "end_index": 4002,
+            "hidden": false,
+            "id": 4792121873,
+            "kom_rank": null,
+            "moving_time": 88,
+            "name": "Bump Down",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": -1.7,
+                "city": "Sebastopol",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1033.1,
+                "elevation_high": 50.2,
+                "elevation_low": 31.2,
+                "end_latitude": 38.426197,
+                "end_latlng": [
+                    38.426197,
+                    -122.836668
+                ],
+                "end_longitude": -122.836668,
+                "id": 5085800,
+                "maximum_grade": 1.5,
+                "name": "Bump Down",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.425524,
+                "start_latlng": [
+                    38.425524,
+                    -122.846989
+                ],
+                "start_longitude": -122.846989,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:21:18Z",
+            "start_date_local": "2014-10-04T15:21:18Z",
+            "start_index": 3985
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 242.9,
+            "distance": 1322.6,
+            "elapsed_time": 133,
+            "end_index": 4035,
+            "hidden": false,
+            "id": 4792121905,
+            "kom_rank": null,
+            "moving_time": 133,
+            "name": "Sanford NB Sprint",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.5,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1310.6,
+                "elevation_high": 27.0,
+                "elevation_low": 16.2,
+                "end_latitude": 38.437411,
+                "end_latlng": [
+                    38.437411,
+                    -122.825178
+                ],
+                "end_longitude": -122.825178,
+                "id": 7853511,
+                "maximum_grade": 6.5,
+                "name": "Sanford NB Sprint",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.425647,
+                "start_latlng": [
+                    38.425647,
+                    -122.825123
+                ],
+                "start_longitude": -122.825123,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:24:20Z",
+            "start_date_local": "2014-10-04T15:24:20Z",
+            "start_index": 4018
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 201.4,
+            "distance": 2933.4,
+            "elapsed_time": 311,
+            "end_index": 4061,
+            "hidden": false,
+            "id": 4792121918,
+            "kom_rank": null,
+            "moving_time": 311,
+            "name": "Occi to Willow",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.3,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 2948.4,
+                "elevation_high": 32.5,
+                "elevation_low": 17.9,
+                "end_latitude": 38.437907,
+                "end_latlng": [
+                    38.437907,
+                    -122.80674
+                ],
+                "end_longitude": -122.80674,
+                "id": 4990528,
+                "maximum_grade": 4.0,
+                "name": "Occi to Willow",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.425801,
+                "start_latlng": [
+                    38.425801,
+                    -122.825106
+                ],
+                "start_longitude": -122.825106,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:24:26Z",
+            "start_date_local": "2014-10-04T15:24:26Z",
+            "start_index": 4019
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 179.3,
+            "distance": 1581.4,
+            "elapsed_time": 172,
+            "end_index": 4059,
+            "hidden": false,
+            "id": 4792121913,
+            "kom_rank": null,
+            "moving_time": 172,
+            "name": "Hall Rd - Sanford to Willowside",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.2,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 1586.32,
+                "elevation_high": 32.5,
+                "elevation_low": 24.3,
+                "end_latitude": 38.437937423586845,
+                "end_latlng": [
+                    38.437937423586845,
+                    -122.8071584366262
+                ],
+                "end_longitude": -122.8071584366262,
+                "id": 3326369,
+                "maximum_grade": 1.4,
+                "name": "Hall Rd - Sanford to Willowside",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.437716979533434,
+                "start_latlng": [
+                    38.437716979533434,
+                    -122.82519989646971
+                ],
+                "start_longitude": -122.82519989646971,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:26:37Z",
+            "start_date_local": "2014-10-04T15:26:37Z",
+            "start_index": 4036
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 149.2,
+            "distance": 6120.2,
+            "elapsed_time": 721,
+            "end_index": 4195,
+            "hidden": false,
+            "id": 4792121936,
+            "kom_rank": null,
+            "moving_time": 721,
+            "name": "LGF Bike Trail",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.2,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 6103.9,
+                "elevation_high": 32.2,
+                "elevation_low": 19.8,
+                "end_latitude": 38.438878,
+                "end_latlng": [
+                    38.438878,
+                    -122.742464
+                ],
+                "end_longitude": -122.742464,
+                "id": 5697398,
+                "maximum_grade": 4.6,
+                "name": "LGF Bike Trail",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.445614,
+                "start_latlng": [
+                    38.445614,
+                    -122.806661
+                ],
+                "start_longitude": -122.806661,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:31:03Z",
+            "start_date_local": "2014-10-04T15:31:03Z",
+            "start_index": 4075
+        },
+        {
+            "activity": {
+                "id": 203378452
+            },
+            "athlete": {
+                "id": 471686
+            },
+            "average_watts": 157.6,
+            "distance": 3312.7,
+            "elapsed_time": 377,
+            "end_index": 4131,
+            "hidden": false,
+            "id": 4792121922,
+            "kom_rank": null,
+            "moving_time": 377,
+            "name": "Willowside to Fulton Bike Path",
+            "pr_rank": 1,
+            "resource_state": 2,
+            "segment": {
+                "activity_type": "Ride",
+                "average_grade": 0.3,
+                "city": "Santa Rosa",
+                "climb_category": 0,
+                "country": "United States",
+                "distance": 3306.57,
+                "elevation_high": 28.4,
+                "elevation_low": 19.2,
+                "end_latitude": 38.44210057289187,
+                "end_latlng": [
+                    38.44210057289187,
+                    -122.7699446077076
+                ],
+                "end_longitude": -122.7699446077076,
+                "id": 746335,
+                "maximum_grade": 0.7,
+                "name": "Willowside to Fulton Bike Path",
+                "private": false,
+                "resource_state": 2,
+                "starred": false,
+                "start_latitude": 38.44553882349102,
+                "start_latlng": [
+                    38.44553882349102,
+                    -122.8061311484619
+                ],
+                "start_longitude": -122.8061311484619,
+                "state": "CA"
+            },
+            "start_date": "2014-10-04T22:31:07Z",
+            "start_date_local": "2014-10-04T15:31:07Z",
+            "start_index": 4077
+        }
+    ],
+    "start_date": "2014-10-04T15:07:31Z",
+    "start_date_local": "2014-10-04T08:07:31Z",
+    "start_latitude": 38.44,
+    "start_latlng": [
+        38.44,
+        -122.75
+    ],
+    "start_longitude": -122.75,
+    "timezone": "(GMT-08:00) America/Los_Angeles",
+    "total_elevation_gain": 2523.8,
+    "trainer": false,
+    "truncated": null,
+    "type": "Ride",
+    "upload_id": 226294137
+}

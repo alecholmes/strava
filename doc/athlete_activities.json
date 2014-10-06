@@ -1,0 +1,57 @@
+[
+    {
+        "achievement_count": 84,
+        "athlete": {
+            "id": 471686,
+            "resource_state": 1
+        },
+        "athlete_count": 4,
+        "average_speed": 7.523,
+        "average_watts": 164.0,
+        "comment_count": 0,
+        "commute": false,
+        "device_watts": false,
+        "distance": 164918.0,
+        "elapsed_time": 27446,
+        "end_latlng": [
+            38.44,
+            -122.75
+        ],
+        "external_id": "2014-10-04-15-07-30.tcx",
+        "flagged": false,
+        "gear_id": null,
+        "has_kudoed": false,
+        "id": 203378452,
+        "kilojoules": 3594.5,
+        "kudos_count": 14,
+        "location_city": "Santa Rosa",
+        "location_country": "United States",
+        "location_state": "California",
+        "manual": false,
+        "map": {
+            "id": "a203378452",
+            "resource_state": 2,
+            "summary_polyline": "wksiFprelV_MbIOhoBpl@hEb@`tIfnA^eNpcB|n@dpEkG`PqyAvYCzJdJjq@hlAja@fWve@sBt_@nPpc@jFxbAeMlkAze@lgAiaAvTs\\lj@q[lOmVn{@yv@xViRh_@vObOhE|\\wMbs@cq@z\\a`@|w@_NtG_^qP}cAzcAcFn_@z_AvcA`@dyAk]iUap@r]qm@b~@sUZi@|TgVjYqxAcHiMrk@ud@bQ}BpWc^`K}J~Zsp@gW{r@vc@oLiRyt@f]c]gBgi@tsAkg@jBok@`~@up@`LbFfE{Lzp@uZtUgCzb@s]~aApLte@sOho@pM~iA}H|{@m]vu@_XzGbPxtAqIn]e`@~I{Udu@yq@z_AwBfnBnb@|{Bj_@~|@`~@pS{SzKvKfJ_W|\\xY@wIlYhFxVxrAxIhb@yo@j~@ei@dGegAp|Auo@jRghAlZe\\sDcQ|Ua{@kDsm@~JkZvaAcf@f~@mfA|KaV{CuVfNeQpw@yRtn@{x@liAem@doAceBzLsa@pa@nFc[y_@`MdIzo@eLnr@spAcJg\\zTt@l`@_gA|Cyx@bhBa{A|K|q@v}Acq@AqLbzBma@vEaZ~\\uYpjAwZnoAwx@qQe]}@}^{S~AoKumB_b@oE_uAdWsaAinAjRw~A__@kq@pHXbKi[gUsZ~Bc{@ge@ykAbEuX|PeLpzAbAgKa_@tEmT}JsXuYiO_AuXuWgb@qe@pC_f@ceAxLkoA}_@m`DsxA}m@kJa}@dyAuYpGqQqn@cnE`O{cBcoAq@IirBco@BSy{DfVkj@lAugAd_@ea@eNc}@{Qh_@aKu@"
+        },
+        "max_speed": 16.1,
+        "moving_time": 21921,
+        "name": "Gran Fondo",
+        "photo_count": 0,
+        "private": false,
+        "resource_state": 2,
+        "start_date": "2014-10-04T15:07:31Z",
+        "start_date_local": "2014-10-04T08:07:31Z",
+        "start_latitude": 38.44,
+        "start_latlng": [
+            38.44,
+            -122.75
+        ],
+        "start_longitude": -122.75,
+        "timezone": "(GMT-08:00) America/Los_Angeles",
+        "total_elevation_gain": 2523.8,
+        "trainer": false,
+        "truncated": null,
+        "type": "Ride",
+        "upload_id": 226294137
+    }
+]
