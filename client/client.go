@@ -20,6 +20,6 @@ type Client interface {
 	GetActivities(activityIds []model.ActivityId) ([]*model.Activity, error)
 }
 
-func NewClient(accessToken string) *V3Client {
-	return &V3Client{httpClient: newHttpClientImpl(stravaBaseUrl, accessToken)}
+func NewClient(accessToken string) *v3Client {
+	return &v3Client{httpClient: newHttpClientImpl(stravaBaseUrl, accessToken)}
 }

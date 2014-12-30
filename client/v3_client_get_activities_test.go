@@ -16,7 +16,7 @@ func TestGetActivities(t *testing.T) {
 		activity := model.Activity{Id: model.ActivityId(i)}
 		activities[activity.Id] = &activity
 		activityIds = append(activityIds, activity.Id)
-		rawClient.Gets[fullActivityUrl(activity.Id, rawClient, t)] = ExpectedBody([]byte(toJson(activity, t)))
+		rawClient.Gets[fullActivityUrl(activity.Id, rawClient, t)] = expectedBody([]byte(toJson(activity, t)))
 	}
 
 	fetched, err := client.GetActivities(activityIds)

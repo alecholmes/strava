@@ -12,8 +12,8 @@ import (
 func TestGetActivitySummaries(t *testing.T) {
 	client, rawClient := newTestClient()
 
-	rawClient.Gets[pageUrl(rawClient, 1, t)] = ExpectedBody([]byte(activitySummariesJson))
-	rawClient.Gets[pageUrl(rawClient, 2, t)] = ExpectedBody([]byte("[]"))
+	rawClient.Gets[pageUrl(rawClient, 1, t)] = expectedBody([]byte(activitySummariesJson))
+	rawClient.Gets[pageUrl(rawClient, 2, t)] = expectedBody([]byte("[]"))
 
 	summaries, err := client.GetActivitySummaries(Beginning)
 	if err != nil {
@@ -68,9 +68,9 @@ func TestGetActivitySummaries_Pages(t *testing.T) {
 	firstJson := fmt.Sprintf("[%s]", toJson(first, t))
 	secondJson := fmt.Sprintf("[%s]", toJson(second, t))
 
-	rawClient.Gets[pageUrl(rawClient, 1, t)] = ExpectedBody([]byte(firstJson))
-	rawClient.Gets[pageUrl(rawClient, 2, t)] = ExpectedBody([]byte(secondJson))
-	rawClient.Gets[pageUrl(rawClient, 3, t)] = ExpectedBody([]byte("[]"))
+	rawClient.Gets[pageUrl(rawClient, 1, t)] = expectedBody([]byte(firstJson))
+	rawClient.Gets[pageUrl(rawClient, 2, t)] = expectedBody([]byte(secondJson))
+	rawClient.Gets[pageUrl(rawClient, 3, t)] = expectedBody([]byte("[]"))
 
 	summaries, err := client.GetActivitySummaries(Beginning)
 	if err != nil {
@@ -101,8 +101,8 @@ func TestGetActivitySummaries_After(t *testing.T) {
 	secondJson := fmt.Sprintf("[%s, %s]", toJson(activity22, t), toJson(activity11, t))
 
 	// The client should never attempt to get page 3 (which would otherwise return [])
-	rawClient.Gets[pageUrl(rawClient, 1, t)] = ExpectedBody([]byte(firstJson))
-	rawClient.Gets[pageUrl(rawClient, 2, t)] = ExpectedBody([]byte(secondJson))
+	rawClient.Gets[pageUrl(rawClient, 1, t)] = expectedBody([]byte(firstJson))
+	rawClient.Gets[pageUrl(rawClient, 2, t)] = expectedBody([]byte(secondJson))
 
 	summaries, err := client.GetActivitySummaries(activity11.Id)
 	if err != nil {

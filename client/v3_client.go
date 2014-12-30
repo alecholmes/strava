@@ -18,11 +18,14 @@ const getActivitiesPoolSize = 10
 
 // A client backed by Strava's HTTP API V3
 // http://strava.github.io/api/
-type V3Client struct {
+type v3Client struct {
 	httpClient HttpClient
 }
 
-func (c *V3Client) GetActivitySummaries(after model.ActivityId) ([]*model.ActivitySummary, error) {
+// Assert v3Client implements Client
+var _ Client = &v3Client{}
+
+func (c *v3Client) GetActivitySummaries(after model.ActivityId) ([]*model.ActivitySummary, error) {
 	allActivities := make([]*model.ActivitySummary, 0)
 	complete := false
 	for page := 1; !complete; page++ {
@@ -40,7 +43,7 @@ func (c *V3Client) GetActivitySummaries(after model.ActivityId) ([]*model.Activi
 	return reverse(allActivities), nil
 }
 
-func (c *V3Client) GetActivity(activityId model.ActivityId) (*model.Activity, error) {
+func (c *v3Client) GetActivity(activityId model.ActivityId) (*model.Activity, error) {
 	body, err := c.httpClient.Get(activityUrl(activityId), make(map[string]interface{}))
 	if err != nil {
 		return nil, err
@@ -54,7 +57,7 @@ func (c *V3Client) GetActivity(activityId model.ActivityId) (*model.Activity, er
 	return &activity, nil
 }
 
-func (c *V3Client) GetActivities(activityIds []model.ActivityId) ([]*model.Activity, error) {
+func (c *v3Client) GetActivities(activityIds []model.ActivityId) ([]*model.Activity, error) {
 	activityMap := make(map[model.ActivityId]*model.Activity, len(activityIds))
 
 	activityIdsLeft := activityIds[:]
@@ -103,7 +106,7 @@ func activityUrl(activityId model.ActivityId) string {
 	return fmt.Sprintf("/activities/%d", activityId)
 }
 
-func (c *V3Client) activitiesPage(page int) ([]*model.ActivitySummary, error) {
+func (c *v3Client) activitiesPage(page int) ([]*model.ActivitySummary, error) {
 	if page <= 0 {
 		return nil, errors.New("page must be positive")
 	}

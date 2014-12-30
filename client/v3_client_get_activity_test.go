@@ -12,7 +12,7 @@ func TestGetActivity(t *testing.T) {
 	client, rawClient := newTestClient()
 
 	url := fullActivityUrl(model.ActivityId(203378452), rawClient, t)
-	rawClient.Gets[url] = ExpectedBody([]byte(activityJson))
+	rawClient.Gets[url] = expectedBody([]byte(activityJson))
 
 	activity, err := client.GetActivity(203378452)
 	if err != nil {

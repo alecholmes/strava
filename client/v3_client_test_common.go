@@ -7,9 +7,9 @@ import (
 	"github.com/alecholmes/strava/model"
 )
 
-func newTestClient() (*V3Client, *TestHttpClient) {
-	testHttpClient := NewTestHttpClient()
-	return &V3Client{httpClient: testHttpClient}, testHttpClient
+func newTestClient() (*v3Client, *testHttpClient) {
+	testHttpClient := newTestHttpClient()
+	return &v3Client{httpClient: testHttpClient}, testHttpClient
 }
 
 func toJson(obj interface{}, t *testing.T) []byte {
@@ -20,7 +20,7 @@ func toJson(obj interface{}, t *testing.T) []byte {
 	return jsonStr
 }
 
-func fullActivityUrl(activityId model.ActivityId, rawClient *TestHttpClient, t *testing.T) string {
+func fullActivityUrl(activityId model.ActivityId, rawClient *testHttpClient, t *testing.T) string {
 	url, err := rawClient.AbsoluteUrl(activityUrl(activityId), make(map[string]interface{}))
 	if err != nil {
 		t.Errorf("Error creating test URL. activityId=%s, error=%s", activityId, err)

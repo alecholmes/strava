@@ -4,26 +4,29 @@ import (
 	"fmt"
 )
 
-type BodyOrError struct {
+type bodyOrError struct {
 	Body  []byte
 	Error error
 }
 
-func ExpectedBody(body []byte) BodyOrError {
-	return BodyOrError{Body: body, Error: nil}
+func expectedBody(body []byte) bodyOrError {
+	return bodyOrError{Body: body, Error: nil}
 }
 
-type TestHttpClient struct {
+type testHttpClient struct {
 	HttpClient
-	Gets map[string]BodyOrError
+	Gets map[string]bodyOrError
 }
 
-func NewTestHttpClient() *TestHttpClient {
+// Assert testHttpClient implements HttpClient
+var _ HttpClient = &testHttpClient{}
+
+func newTestHttpClient() *testHttpClient {
 	client := newHttpClientImpl("http://test", "fake-access-token")
-	return &TestHttpClient{client, make(map[string]BodyOrError)}
+	return &testHttpClient{client, make(map[string]bodyOrError)}
 }
 
-func (client *TestHttpClient) Get(relativePath string, params map[string]interface{}) ([]byte, error) {
+func (client *testHttpClient) Get(relativePath string, params map[string]interface{}) ([]byte, error) {
 	absoluteUrl, err := client.AbsoluteUrl(relativePath, params)
 	if err != nil {
 		return nil, err

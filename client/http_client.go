@@ -14,7 +14,7 @@ type HttpClient interface {
 	Get(relativePath string, params map[string]interface{}) ([]byte, error)
 }
 
-type HttpClientImpl struct {
+type httpClientImpl struct {
 	baseUrl     string
 	accessToken string
 	httpClient  *http.Client
@@ -22,10 +22,10 @@ type HttpClientImpl struct {
 
 // Create a new HTTP client that uses the given accessToken for authentication.
 func newHttpClientImpl(baseUrl string, accessToken string) HttpClient {
-	return &HttpClientImpl{baseUrl: baseUrl, accessToken: accessToken, httpClient: http.DefaultClient}
+	return &httpClientImpl{baseUrl: baseUrl, accessToken: accessToken, httpClient: http.DefaultClient}
 }
 
-func (c *HttpClientImpl) AbsoluteUrl(relativePath string, params map[string]interface{}) (string, error) {
+func (c *httpClientImpl) AbsoluteUrl(relativePath string, params map[string]interface{}) (string, error) {
 	absUrl, err := url.Parse(c.baseUrl + relativePath)
 	if err != nil {
 		return "", err
@@ -40,7 +40,7 @@ func (c *HttpClientImpl) AbsoluteUrl(relativePath string, params map[string]inte
 	return absUrl.String(), nil
 }
 
-func (client *HttpClientImpl) Get(relativePath string, params map[string]interface{}) ([]byte, error) {
+func (client *httpClientImpl) Get(relativePath string, params map[string]interface{}) ([]byte, error) {
 	absUrl, err := client.AbsoluteUrl(relativePath, params)
 	if err != nil {
 		return nil, err
@@ -66,6 +66,6 @@ func (client *HttpClientImpl) Get(relativePath string, params map[string]interfa
 	return body, nil
 }
 
-func (client *HttpClientImpl) bearerToken() string {
+func (client *httpClientImpl) bearerToken() string {
 	return fmt.Sprint("Bearer ", client.accessToken)
 }
