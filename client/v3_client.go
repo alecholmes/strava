@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"sync"
 
 	"github.com/alecholmes/strava/model"
 )
@@ -58,39 +59,42 @@ func (c *v3Client) GetActivity(activityId model.ActivityId) (*model.Activity, er
 }
 
 func (c *v3Client) GetActivities(activityIds []model.ActivityId) ([]*model.Activity, error) {
-	activityMap := make(map[model.ActivityId]*model.Activity, len(activityIds))
+	var wg sync.WaitGroup
 
-	activityIdsLeft := activityIds[:]
-	fetchedActivities := make(chan *model.Activity)
-	runningRequests := 0
-	for len(activityIdsLeft) > 0 {
-		if runningRequests == getActivitiesPoolSize {
-			if fetched := <-fetchedActivities; fetched != nil {
-				activityMap[fetched.Id] = fetched
-			}
-			runningRequests--
-		}
-		runningRequests++
-		activityId := activityIdsLeft[0]
-		activityIdsLeft = activityIdsLeft[1:]
+	activityIdChan := make(chan model.ActivityId, len(activityIds))
+	activityChan := make(chan *model.Activity)
+
+	// Goroutines to consume unfetched activities
+	wg.Add(getActivitiesPoolSize)
+	for i := 0; i < getActivitiesPoolSize; i++ {
 		go func() {
-			activity, err := c.GetActivity(activityId)
-			if err != nil {
-				fetchedActivities <- nil
-			} else {
-				fetchedActivities <- activity
+			defer wg.Done()
+			for activityId := range activityIdChan {
+				if activity, err := c.GetActivity(activityId); err == nil {
+					activityChan <- activity
+				}
 			}
 		}()
 	}
 
-	// Drain any outstanding requests
-	for i := 0; i < runningRequests; i++ {
-		if fetched := <-fetchedActivities; fetched != nil {
-			activityMap[fetched.Id] = fetched
-		}
+	for _, activityId := range activityIds {
+		activityIdChan <- activityId
+	}
+	close(activityIdChan)
+
+	// Goroutine to close activityChan once all fetching goroutines have completed
+	go func() {
+		wg.Wait()
+		close(activityChan)
+	}()
+
+	// Index results by activityId
+	activityMap := make(map[model.ActivityId]*model.Activity, len(activityIds))
+	for activity := range activityChan {
+		activityMap[activity.Id] = activity
 	}
 
-	// Reorder to match activityIds
+	// Reorder activities to match given activityIds
 	activities := make([]*model.Activity, 0, len(activityMap))
 	for _, activityId := range activityIds {
 		activity, found := activityMap[activityId]
