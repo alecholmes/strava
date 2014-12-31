@@ -27,6 +27,7 @@ func TestGetActivitySummaries(t *testing.T) {
 	expectedFirst := model.ActivitySummary{
 		Id:                 model.ActivityId(202315892),
 		Name:               "Headlands w MC",
+		Athlete:            &model.Athlete{Id: 471686},
 		StartDate:          time.Date(2014, 10, 2, 13, 12, 24, 0, time.UTC),
 		StartDateLocal:     time.Date(2014, 10, 2, 6, 12, 24, 0, time.UTC),
 		Timezone:           "(GMT-08:00) America/Los_Angeles",
@@ -44,6 +45,7 @@ func TestGetActivitySummaries(t *testing.T) {
 	expectedSecond := model.ActivitySummary{
 		Id:                 model.ActivityId(203378452),
 		Name:               "Gran Fondo",
+		Athlete:            &model.Athlete{Id: 471686},
 		StartDate:          time.Date(2014, 10, 4, 15, 7, 31, 0, time.UTC),
 		StartDateLocal:     time.Date(2014, 10, 4, 8, 7, 31, 0, time.UTC),
 		Timezone:           "(GMT-08:00) America/Los_Angeles",

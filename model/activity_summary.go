@@ -7,6 +7,7 @@ import (
 type ActivitySummary struct {
 	Id                 ActivityId `json:"id"`
 	Name               string     `json:"name"`
+	Athlete            *Athlete   `json:"athlete"`
 	StartDate          time.Time  `json:"start_date"`
 	StartDateLocal     time.Time  `json:"start_date_local"`
 	Timezone           string     `json:"timezone"`

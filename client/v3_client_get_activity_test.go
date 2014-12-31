@@ -43,6 +43,7 @@ func TestGetActivity(t *testing.T) {
 	expectedActivity := model.Activity{
 		Id:                 203378452,
 		Name:               "Gran Fondo",
+		Athlete:            &model.Athlete{Id: 471686},
 		StartDate:          time.Date(2014, 10, 4, 15, 7, 31, 0, time.UTC),
 		StartDateLocal:     time.Date(2014, 10, 4, 8, 7, 31, 0, time.UTC),
 		Timezone:           "(GMT-08:00) America/Los_Angeles",
