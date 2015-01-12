@@ -25,9 +25,14 @@ func TestGetRelatedActivitySummaries(t *testing.T) {
 	}
 
 	expectedFirst := model.ActivitySummary{
-		Id:                 model.ActivityId(9837863),
-		Name:               "Levi's Gran Fondo - Missed 16k because of mechanical issues but got all the climbs in",
-		Athlete:            &model.Athlete{Id: 699515},
+		Id:   model.ActivityId(9837863),
+		Name: "Levi's Gran Fondo - Missed 16k because of mechanical issues but got all the climbs in",
+		Athlete: &model.Athlete{
+			Id:        699515,
+			FirstName: "Some",
+			LastName:  "Dude",
+			Friend:    model.Unset,
+		},
 		StartDate:          time.Date(2014, 10, 4, 15, 7, 17, 0, time.UTC),
 		StartDateLocal:     time.Date(2014, 10, 4, 8, 7, 17, 0, time.UTC),
 		Timezone:           "(GMT-08:00) America/Los_Angeles",
@@ -43,9 +48,15 @@ func TestGetRelatedActivitySummaries(t *testing.T) {
 	}
 
 	expectedSecond := model.ActivitySummary{
-		Id:                 model.ActivityId(29823897),
-		Name:               "Levi's Gran Fondo with heat wave",
-		Athlete:            &model.Athlete{Id: 11235813},
+		Id:   model.ActivityId(29823897),
+		Name: "Levi's Gran Fondo with heat wave",
+		Athlete: &model.Athlete{
+			Id:        11235813,
+			FirstName: "Bea",
+			LastName:  "Arthur",
+			Friend:    model.Accepted,
+			Follower:  model.Accepted,
+		},
 		StartDate:          time.Date(2014, 10, 4, 15, 9, 5, 0, time.UTC),
 		StartDateLocal:     time.Date(2014, 10, 4, 8, 9, 5, 0, time.UTC),
 		Timezone:           "(GMT-08:00) America/Los_Angeles",
