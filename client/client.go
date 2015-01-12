@@ -18,6 +18,9 @@ type Client interface {
 	// Get multiple activities by their ids, returned in the same order.
 	// Activities that could not be fetched are excluded.
 	GetActivities(activityIds []model.ActivityId) ([]*model.Activity, error)
+
+	// Get activities summaries for activities related to the given activity id.
+	GetRelatedActivitySummaries(activityId model.ActivityId) ([]*model.ActivitySummary, error)
 }
 
 func NewClient(accessToken string) *v3Client {

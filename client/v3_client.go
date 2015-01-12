@@ -27,21 +27,7 @@ type v3Client struct {
 var _ Client = &v3Client{}
 
 func (c *v3Client) GetActivitySummaries(after model.ActivityId) ([]*model.ActivitySummary, error) {
-	allActivities := make([]*model.ActivitySummary, 0)
-	complete := false
-	for page := 1; !complete; page++ {
-		activities, err := c.activitiesPage(page)
-		if err != nil {
-			return nil, err
-		}
-
-		filtered := filterBefore(activities, after)
-		allActivities = append(allActivities, filtered...)
-
-		complete = len(activities) == 0 || len(activities) > len(filtered)
-	}
-
-	return reverse(allActivities), nil
+	return c.getActivitySummaries(activitySummariesUrl, after)
 }
 
 func (c *v3Client) GetActivity(activityId model.ActivityId) (*model.Activity, error) {
@@ -106,16 +92,42 @@ func (c *v3Client) GetActivities(activityIds []model.ActivityId) ([]*model.Activ
 	return activities, nil
 }
 
+func (c *v3Client) GetRelatedActivitySummaries(activityId model.ActivityId) ([]*model.ActivitySummary, error) {
+	return c.getActivitySummaries(relatedActivitySummariesUrl(activityId), Beginning)
+}
+
 func activityUrl(activityId model.ActivityId) string {
 	return fmt.Sprintf("/activities/%d", activityId)
 }
 
-func (c *v3Client) activitiesPage(page int) ([]*model.ActivitySummary, error) {
+func relatedActivitySummariesUrl(activityId model.ActivityId) string {
+	return fmt.Sprintf("%s/related", activityUrl(activityId))
+}
+
+func (c *v3Client) getActivitySummaries(url string, after model.ActivityId) ([]*model.ActivitySummary, error) {
+	allActivities := make([]*model.ActivitySummary, 0)
+	complete := false
+	for page := 1; !complete; page++ {
+		activities, err := c.getActivitySummariesPage(url, page)
+		if err != nil {
+			return nil, err
+		}
+
+		filtered := filterBefore(activities, after)
+		allActivities = append(allActivities, filtered...)
+
+		complete = len(activities) == 0 || len(activities) > len(filtered)
+	}
+
+	return reverse(allActivities), nil
+}
+
+func (c *v3Client) getActivitySummariesPage(url string, page int) ([]*model.ActivitySummary, error) {
 	if page <= 0 {
 		return nil, errors.New("page must be positive")
 	}
 
-	body, err := c.httpClient.Get(activitySummariesUrl, map[string]interface{}{"per_page": activitySummariesPageSize, "page": page})
+	body, err := c.httpClient.Get(url, map[string]interface{}{"per_page": activitySummariesPageSize, "page": page})
 	if err != nil {
 		return nil, err
 	}
